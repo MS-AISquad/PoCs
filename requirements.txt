@@ -1,0 +1,6 @@
+google-generativeai
+sacrebleu
+unbabel-comet
+transformers
+sentence-transformers
+torch
