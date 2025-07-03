@@ -9,7 +9,9 @@ from evaluator import TranslationEvaluator
 
 
 def split_sentences(text: str) -> List[str]:
-    sentences = re.split(r'(?<=[.!?])\s+', text.strip())
+    # split on ". " as long as the period is not part of an acronym (e.g. or S.B.)
+    # or a one letter initial (John E. Smith)
+    sentences = re.split(r'(?<=(?<!\w[ \.]\w)[.!?])\s+', text.strip())
     return [s for s in sentences if s]
 
 
@@ -69,6 +71,9 @@ def main():
     if not output_name:
         output_name = "results"
     
+    print("\nTranslate sentence by sentence (one API call each)?")
+    translate_by_sentence = input("Enter 'y' for yes or 'n' for no: ").strip().lower() == 'y'
+    
     print(f"\nReading input file: {input_file}")
     source_text = read_file(input_file)
     source_sentences = split_sentences(source_text)
@@ -84,7 +89,11 @@ def main():
     try:
         translator = GeminiTranslator()
         print(f"\nTranslating from {source_lang_full} to {target_lang_full}...")
-        translations = translator.translate_batch(source_sentences, source_lang_full, target_lang_full)
+        if translate_by_sentence:
+            translations = translator.translate_batch(source_sentences, source_lang_full, target_lang_full)
+        else:
+            translations = translator.translate_text(source_text, source_lang_full, target_lang_full)
+            translations = split_sentences(translations)
         print(f"Translation complete!")
         
         results = {
