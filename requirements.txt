@@ -4,3 +4,5 @@ unbabel-comet
 transformers
 sentence-transformers
 torch
+pypdf
+python-docx
