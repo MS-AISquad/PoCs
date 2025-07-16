@@ -1,0 +1,243 @@
+Pillar 3 - Report with Prudential Relevance June 2024
+
+ESG Risks
+
+santander.com
+
+1
+
+ESG RISKS
+
+1.1. Environmental Risk 3
+
+1.1.1. Business strategy and processes 3
+
+1.1.2. Governance 6
+
+1.1.3. Risk management 9
+
+1.2. Social Risk 17
+
+1.2.1. Business strategy and processes 17
+
+1.2.2. Governance 19
+
+1.2.3. Risk management 21
+
+1.3. Governance Risk 23
+
+Glossary 25
+
+1. ESG RISKS
+
+1.1. Environmental Risk
+
+1.1.1. Business strategy and processes
+
+This section addresses the obligation to provide qualitative information on environmental risk; in particular, in relation to the business strategy and processes for issues (a), (b) and (c). This is a summary of our global climate strategy. For more information, see our Annual Report and the climate finance report, available on our corporate website. Our approach
+
+Combating climate change is a key objective for Santander. We support the goals of the Paris Agreement and have the ambition to achieve net zero carbon emissions by 2050. Our main lines of action are:
+
+To meet these goals, within a broader set of ESG goals, the Group has set some climate and environmental related targets:
+
+Report with Prudential Relevance June 2024 Pillar 3
+
+3
+
+1. In countries where we can verify electricity from renewable sources in Banco Santander properties. Considers the 10 main countries in which we operate. 2. Includes the Santander Group's contribution to green finance: project financing; syndicated loans; green bonds; equity financing; export financing, advisory services, structuring and other products, to help clients transition to a low-carbon economy. 3. The figures shown are the most recent available. Given the limited availability of client data to assess financed emissions, we plan to provide an update on progress towards the targets in future disclosures. Banco Santander's internal calculation methodology, based on the Partnership for Carbon Accounting Financials (PCAF), has been used. See more information in section 6. Supporting the green transition. 4. In the 2021 Annual Report and the Climate Finance Report, we assessed the 2019 financed emissions of our power generation portfolio, including guarantees and other types of off-balance sheet exposure to our clients that do not involve current financing. Given that, according to the PCAF standard, such exposure should not be calculated if its attribution factor is 'pending', we over-attributed the emissions of our corporate clients. Therefore, the 2019 baseline emission intensity has been restated from 0.23 to 0.21. The target and climate ambition remain for this sector. 5. Consumer loans for the acquisition of passenger cars in Europe, covering a significant majority of the exposure. 6. Scope 1 and 2 emissions and scope 3 emissions from employee commuting and business travel. Considers wholly owned companies in Argentina, Brazil, Chile, Germany, Mexico, Poland, Portugal, Spain, the United Kingdom and the United States. Climate Opportunities
+
+Working with clients to support their transition and reduce carbon emissions will be key to achieving our ambition of generating net zero emissions by 2050. To achieve this, our teams engage with clients, with the support of specialised environmental, social and governance (ESG) teams in Santander Corporate & Investment Banking (CIB), Wealth Management & Insurance (Wealth) and Retail and Commercial Banking. Report with Prudential Relevance June 2024 Pillar 3
+
+4 Our net zero ambition
+
+According to the annual report, our ambition is to reach net zero carbon emissions by 2050. This applies to the Group's operations and emissions related to our lending, advisory and investment services. Since 2021, we have been founding members of the Net Zero Banking Alliance (NZBA, within the framework of the United Nations Environment Programme Finance Initiative), so the Group is committed to:
+
+• Support the transition of operational and attributable greenhouse gas (GHG) emissions from lending and investment portfolios towards the path of net zero emissions by mid-century. • Set intermediate targets for high GHG emission sectors by 2030 (or sooner). Investment goals towards environmental objectives
+
+Section 6 "Financing the green transition" of the climate finance report states that to achieve our ambition of becoming leaders in sustainable finance in our markets, we are mobilising EUR 120 MM in green finance by 2025 and EUR 220 MM by 2030. According to the annual report, in 2023, we raised and facilitated 20.2
+
+1
+
+MM EUR in green financing, bringing the total to 114.6 MM EUR since 2019. Our goal is to offer our clients global and local green solutions in SCIB, retail and commercial banking, and raise awareness in our local communities. The main priorities of "Green Finance" are to establish a solid infrastructure through the application of the sustainable finance and investment classification system (SFICS) and grow the green finance business. Limits to assess and address environmental risk
+
+Our environmental, social and climate change risk management policy (ESCC), which we review annually, defines the criteria relating to investment in entities and provision of financial products and services
+
+2
+
+to clients in the Oil and Gas, Electricity Generation and Distribution, and Mining and Metallurgy sectors, as well as derivatives of agricultural commodity businesses. These restrictions have been defined consistently with our internal sustainability and human rights policies, based on market practices and meetings with NGOs and other external stakeholders. We summarise some examples of the restrictions:
+
+• Any oil and gas extraction, electricity generation or transportation, mining, manufacturing, plantations or large infrastructure projects or activities that put at risk areas classified by the lists of Ramsar sites, World Heritage sites or by the International Union for Conservation of Nature (IUCN) as categories I, II, III or IV. • Oil and gas: new oil exploration and production clients, except for specific financing operations for new renewable energy facilities. Also direct financing to new greenfield oil exploration and production projects. • Power generation: as of 2030, any client in which power generation from coal directly accounts for more than 10% of its revenue on a consolidated basis. New clients in which power generation from coal directly accounts for more than 25% of its revenue on a consolidated basis, except for specific financing operations for new renewable energy facilities. In these cases, the client may not be developing new coal-fired power plants and/or expanding existing ones and must have a robust, credible plan with measurable targets showing that revenue from power generation from coal will not exceed the 10% threshold in 2030. It will be possible to work with new clients in which power generation from coal directly accounts for less than 25% of their revenue on a consolidated basis, provided that the client has a credible plan to reduce its revenue from power generation from coal to 10% or less by 2030; and is not developing new coal-fired power plants and/or expanding existing ones. • Mining and metallurgy: as of 2030, clients owning thermal coal mining operations worldwide. New clients with thermal coal mine operations and projects worldwide, with the exception of specific renewable energy financing operations. In these cases, the client must have a robust, credible plan with measurable targets showing that it will not operate thermal coal mines in 2030. Project financing for new thermal coal mines or the expansion thereof. • Soft commodities: client dedicated to the extraction of native species of tropical timber not certified by the forest management council (FSC) or to palm oil processors who are not members or are certified by the roundtable on sustainable palm oil (RSPO). Also projects of developments in peatlands in high-risk geographies. This information is collected in the ESCC Policy. Report with Prudential Relevance June 2024 Pillar 3
+
+5
+
+1
+
+Preliminary data, as final league tables for 2023 were not available as of the closing date of this report. This information will be updated in the next Climate Finance Report. 2
+
+Defined as banking operations involving credit risk, insurance, advisory services, equity and asset management. Policies and procedures related to engaging with clients in their strategies to mitigate and reduce environmental risks. This section addresses the obligation to provide qualitative information on environmental risk; in particular, in relation to the business strategy and processes for issue (d). As discussed in the climate finance report, our approach to client engagement is intended to facilitate the achievement of our emissions targets and develop a deep understanding of our clients' transition strategies towards low-carbon business models. The approach is supported by governance processes, with the participation of various internal stakeholders, such as front office teams, risk reporting functions, as well as senior management to guide possible portfolio management actions. Collect information
+
+We collect relevant information as part of the regular dialogue with clients and their engagement. In addition, we obtain specific climate-related information through customised requests containing transition-focused elements designed to help us better understand companies' decarbonisation strategies. We also seek to obtain reliable and consistent information from credible third parties to supplement our understanding. This information will be collected and updated both at the client onboarding stage, as part of the regular business review and risk assessment with each client, which is carried out at least once a year. Assess
+
+Our assessment consists of a two-step approach designed to categorise our clients according to their emissions trajectory and the perceived quality of their transition strategy. The first step involves assessing how our clients' emissions trajectory aligns with our current sectoral portfolio baseline and future sectoral portfolio targets. The second step assesses the quality of each client's transition plan. Our transition plan assessment methodology focuses on four pillars: Objectives, Action Plan, Disclosure and Governance. We use established transition plan assessment methodologies, such as TPI (Transition Pathway Initiative), CDP, ACT (Assessing low Carbon Transition), Climate Action 100+, TCFD, as well as other related initiatives, including the UK Transition Plan Taskforce (TPT). Engagement
+
+Our client climate rating system seeks to facilitate a personalised transition dialogue, to help clients at lower levels move to higher levels over time. In 2024, we plan to focus our client engagement efforts on those at lower levels. We are developing internal transition assessment dashboards for relationship managers. These panels are designed to help identify priority areas at the client level, compare industry and find opportunities to support our clients in financing their transition. Review
+
+The client transition plan assessment is carried out by relationship managers, in cooperation with ESCC risk analysts, followed by portfolio-level reviews by the ESG Solutions and Portfolio Alignment teams to determine final ratings. The portfolio-level review is important to help identify key trends and challenges in each sector, as well as future improvements in the transition plan assessment methodology. Over the past year, the two-step climate rating assessment process was expanded to include Energy, Steel and Aviation. Initial assessments for both steps were completed. Subsequently, transition plan quality assessments were reviewed and improved, based on updated benchmark methodologies and sector-specific research. This led to the inclusion of additional sector-specific questions to assess the quality of the transition plan. In 2024, we plan to expand our client climate rating assessment process to include the Automotive sector as well. 1.1.2. Governance
+
+This section addresses the obligation to provide qualitative information on environmental risk; in particular, in relation to governance for issues (e), (h) and (g). Governing bodies and frequency
+
+According to the annual report, the board of directors oversees our activity related to climate change and the green transition. In 2023, the board discussed these issues at seven meetings, including the Climate-Net Zero Ambition plan, the ESCC risk policy review and disclosure reports. In addition, business units and global businesses report annually to the board on their main ESG initiatives. The board of directors has the function of approving the responsible banking agenda and setting the strategy, approving related policies on responsible business and sustainability and, in particular, on environmental and social matters. As well as ensuring that the alignment of the responsible banking strategy is consistent with the Group's strategy, among others. The responsible banking, sustainability and culture committee (CBRSC) is the highest governing body for overseeing the development and implementation of the Group's sustainability strategy and policies, in support of the board of directors. In 2023, the CBRSC met six times and has reviewed topics related to climate change and the green transition in five sessions. The CBRSC coordinates its activity with other board committees, in particular with the risk, regulation and compliance oversight committee, the audit committee and the remuneration committee. The first has assessed ESG policies and ESG risk appetite, the second has overseen financial and non-financial information, as well as related processes and controls, and the third has validated sustainability incentives incorporated into remuneration schemes. The management meeting, chaired by the CEO, analyses progress on the responsible banking agenda, including climate change, focusing on the implementation of the recommendations of the Task Force on Climate-Related Financial Disclosures (TCFD) and on ESG business opportunities. In 2023, it was informed on 3 occasions about progress on the responsible banking agenda. The corporate responsible banking unit coordinates and drives the responsible banking agenda, with the support of a senior advisor on responsible business practices, who reports directly to the executive chairman. The responsible banking network consists of the corporate responsible banking unit and the responsible banking teams of our subsidiaries and our global businesses that execute the sustainability agenda in accordance with corporate strategy and policies. The audit, remuneration and risk committees also supported and reviewed sustainability-related issues. Integration of environmental risk management bodies, organisational structure of both business lines and internal control functions
+
+This section addresses the obligation to provide qualitative information on environmental risk; in particular, in relation to governance for issue (f). In 2023, we continued to integrate climate management into the routine activities of the Corporate & Investment Banking division, Risks and Responsible Banking. For example, the Corporate & Investment Banking division created a team dedicated to monitoring portfolio alignment and strengthened its corresponding governance. In addition to Corporate & Investment Banking, several local units participate in a process coordinated by the Group's Responsible Banking division. The objective is to advance the decarbonisation agenda, promote the exchange of knowledge and experience between local teams and seek synergies to design reliable decarbonisation plans for commercial banking portfolios. Other initiatives and groups at the corporate level that support governance meet regularly to implement or provide advice on our climate change agenda. For example, our public policy sustainability working group advises on regulation, the environmental footprint working group discusses issues related to our footprint and studies ways to reduce it, and the sustainable bonds working group oversees sustainable bond issuances. The 2023 audit plan, based on the annual risk assessment, has continued to maintain ESG factors and climate risk as one of the main points of attention. In this regard, progress has been reviewed during the year on the main initiatives maintained, both to meet the ESG information disclosure requirements and to integrate climate change into the Group's business processes and risk management. Since 2020, Santander has assessed progress in green finance, progress made on climate targets and other ESG targets for the Group's variable remuneration programme. Santander integrates the short, medium and long-term effects of environmental risks into its risk management by integrating climate and environmental risk into its main strategic financial planning, which comprises the preparation of the annual budget, our three-year financial plan and the Group's long-term strategic plan. ESG Training and Skills Development
+
+We have continued to work to familiarise all employees with sustainability, the UN Sustainable Development Goals and climate change through training for global businesses and subsidiaries. The Group has designed a progressive 3-level learning journey to adapt to the evolving needs of businesses and employees. Each level covers a set of activities and modules:
+
+• Awareness and knowledge
+
+• Specialisation
+
+• Certification
+
+In 2024, in collaboration with global and local teams, we will continue to identify and adapt to evolving business needs through: the development of mandatory training and personalised learning pathways, the expansion of ESG talks and channel content to new topics, and the improvement of the ESG website design. Our different training programmes include:
+
+1. Employee Awareness: Departments send out climate-related newsletters and reports, and frequently publish news and articles on the intranet to raise employee ESG awareness. 2. ESG Talks: One-hour seminars by ESG teams covering various topics such as Circular Economy, ESG Equity Research and Green Washing to improve understanding of Santander's ESG commitments and projects. 3. 'Training Pills' ESCC Integration: An initiative that shares best practices and expertise on how to integrate processes such as materiality and sectoral assessment of the climate into ESCC management. 4. Climate Training for Board Members: Board members completed training on climate change, covering the Paris Agreement, net zero, climate risk management and ESG risks, with additional sessions for board members of subsidiaries in 2023. Report with Prudential Relevance June 2024 Pillar 3
+
+7
+
+5. ESG Training in CIB: Senior CIB staff receive training on transition topics, including climate regulations, greenwashing and frameworks for assessing client transition plans, through sessions with external experts. 6. ESG Training in Commercial Banking: Specific ESG training is offered to Commercial Banking teams, with extensive hours dedicated to economic sectors, exemplified by the more than 750 hours of training at the ESCC Competence Centre in Spain. 7. ESG Training in Wealth Management and Insurance: Increased ESG training for employees in Santander Asset Management, Private Banking and Insurance through internal and CESGA/CFA certifications, ranging from 16 to 150 hours. Alignment of remuneration policy with environmental risk objectives
+
+This section addresses the information requirement on environmental risk, in particular in relation to governance for issue (i). In 2023, our incentive programmes included ESG criteria as levers for Santander's teams' actions to be consistent with our goals. Variable remuneration (which applies to all units) has included ESG criteria since 2020 and long-term incentives (which apply to senior executives) have included them since 2022. In both cases, the scorecards use Santander's public ESG targets, including climate, sustainable finance, financial inclusion, diversity, equity and inclusion (DE&I) and socially responsible investment. The variable remuneration of executive directors consists of a single incentive, subject to the achievement of short and long-term targets, which is structured as follows:
+
+• The final amount of variable remuneration will be determined at the beginning of the following year (2025) on the basis of the reference amount and depending on the achievement of the annual targets described in the annual report. • 40% of the variable remuneration will be paid immediately after its determination and the remaining 60% will be paid on a deferred basis in equal parts over five years, and subject to long-term targets, as follows:
+
+◦ The deferred amount for the first two years, 24% of the total, to be collected in the following two years, 2026 and 2027, will be subject to the non-occurrence of malus clauses. ◦ The deferred amount for the following three years (36% of the total), to be collected in 2028, 2029 and 2030, will be subject, in addition to the non-occurrence of malus clauses, to the fulfilment of the long-term targets (variable remuneration subject to long-term targets). The long-term targets, described in the annual report, are:
+
+A. The relative performance of Banco Santander's total shareholder return (TSR). B. Banco Santander's return on tangible equity (RoTE). C. ESG metrics
+
+In relation to ESG metrics, their achievement will depend on the degree of progress at Group level in the lines of action and targets associated with responsible banking: (1) proportion of women in senior management positions, (2) financial inclusion, (3) socially responsible investment and (4) supporting the transition. With regard to environmental aspects, these objectives include:
+
+• Socially Responsible Investment in 2026 as a percentage of total assets under management:
+
+Socially Responsible Investment
+
+B
+
+(%) Coefficient
+
+≥ 21% 1.25
+
+≥ 18% but < 21% 1 – 1.25
+
+A
+
+≥ 15% but < 18% 0 – 1
+
+A
+
+< 15% 0
+
+A. Proportional increase in the coefficient depending on its position within this line of the scale. B. Assets under management that are aligned with Santander's Sustainable Finance and Investment Classification System (SFICS). • Supporting the transition. This objective includes how we support our clients' transition and compliance with a transition plan:
+
+Disbursed and facilitated business
+
+B
+
+(Billions of euros) between 2024-2026 Coefficient
+
+≥ 180 1.25
+
+≥ 150 but < 180 1 – 1.25
+
+A
+
+≥ 110 but < 150 1
+
+< 110 0
+
+A. Proportional increase in the coefficient depending on its position within this line of the scale
+
+B. Santander Group's contribution to our clients' transition: Green financing disbursed and facilitated by CIB (public target), green financing and sustainability-linked loans from retail and commercial banking, and green financing from Digital Consumer Bank. With regard to the overall assessment of these ESG metrics, they will be measured jointly with the social risk commitments set out in the Remuneration Policy for Social Aspects section. Each line of action of responsible banking has a different weighting:
+
+• Women in senior management positions: 20%
+
+• Financial inclusion: 20%
+
+• Socially Responsible Investment: 10%
+
+• Support in the transition: 50%
+
+More details in section 6.4 'Remuneration policy for directors for the years 2024, 2025 and 2026' of the annual report. Access the 2023 Annual Report on the Grupo Santander website. Report with Prudential Relevance June 2024 Pillar 3
+
+8 1.1.3. Risk management
+
+This section addresses the obligation to provide qualitative information on environmental risk; in particular, in relation to risk management for issues (j), (l), (m), (n) and (q). Integration of environmental factors into the risk framework: management, limit setting and tools
+
+The management of climate and environment-related risk factors is essential to executing our strategy, contributing to the transition to a low-carbon economy and achieving our net-zero commitment in 2050. As part of the management of climate and environment-related risk factors, we are progressively introducing decarbonisation targets for sectors considered to be highly polluting, as well as gradually integrating them into the various phases of the risk management cycle and into our cross-functional enterprise risk management processes such as risk appetite and the emerging risk identification exercise, among others. One of the elements that has contributed to integrating these factors into our strategy is the inclusion of these in the credit granting and monitoring process. At Grupo Santander, we carry out an identification and assessment of the factors that present the greatest materiality for the different types of risk. The following chart describes how we are integrating climate and environmental factors into the risk management cycle. The risk management cycle consists of these phases:
+
+1. Identification
+
+To identify and manage material risks, we periodically conduct risk identification exercises to assess potential events that could threaten the Group's strategic plan, in which ESG risk factors are considered, with special attention to greenwashing, environmental risks beyond climate (nature and biodiversity) and social risks, among others. Risk identification helps us understand the internal and external threats that the environment and climate change pose to our business model, profitability, solvency and strategy. In addition, the risk taxonomy, heat maps and materiality assessment exercises form the basis for classifying and identifying the material risks related to the environment and climate of our portfolios. 2. Planning
+
+As part of our public sustainability commitments, we include decarbonisation targets in our core strategic planning: short-term for budgeting; medium-term for financial planning; long-term for the strategic plan; along with ad hoc analysis:
+
+→ Budget (1 year): provides input for the three-year plan and includes tasks to quantify annual targets in the business plans of Santander's subsidiaries within the Group's risk appetite and liquidity, capital and efficiency plans. → Financial Planning (3 years): is a key process for medium-term planning in the Group and its subsidiaries. It is based on a bottom-up approach that facilitates an aggregated and coherent view of our processes. It is also the basis for preparing the annual budget, the Internal Capital Adequacy Assessment Process (ICAAP) and the Internal Liquidity Adequacy Assessment Process (ILAAP). → Strategic Plan (≥ 5 years): sets long-term targets for the main subsidiaries and businesses of Grupo Santander. It covers the Group's vision and priorities in terms of capital allocation, organic and inorganic opportunities in each business unit and region. The core strategic plans mentioned above allow us to identify threats to our objectives, in accordance with our policies and risk appetite statement, and provide a forward-looking view of risks and their financial impacts. 3. Assessment
+
+At Grupo Santander, environmental, social and governance aspects are considered factors that may impact existing risk types across different time horizons, in accordance with our Corporate Risk Framework. Therefore, such factors are identified and assessed periodically, consistently with the level of development of the regulatory framework and applicable practices. Materiality analysis is the process of identifying and assessing those environmental, social and governance factors that may be relevant because of their potential impact on the bank's risk profile. Conceptually, the process is carried out in the following stages, although some of these conceptual phases occur simultaneously and not sequentially:
+
+• Identification of ESG drivers
+
+• Analysis of transmission channels
+
+• Assessment of the materiality of the potential impact on the main types of risk
+
+Report with Prudential Relevance June 2024 Pillar 3
+
+9
+
+• Aggregation of the consolidated view of materiality
+
+We use various assessment tools that help us analyse the potential impacts of climate and environmental factors on financial and non-financial risk management, such as materiality assessments, quantitative and qualitative heatmaps, and scenario analysis, among others. For example, we conduct a quarterly materiality assessment to identify those credit portfolios that are most relevant in terms of physical and transition risks. The main aspects considered for the assessment of materiality by risk typology are:
+
+• identification of ESG drivers (see Risk Factor Table for details) and assessment of risk factors through impact and probability;
+
+• the evaluation of the country based on the degree of adoption of urgent measures to combat climate change;
+
+• Santander's portfolio exposure with potential reputational impact and sensitive sectors related to material climate and environmental risks. • climate scenarios according to NGFS and different time horizons. The following table provides the assessment of the materiality of the potential impacts derived from physical and transition risks that can act as transmission channels to the existing risk categories in the short, medium and long term. This assessment allows Grupo Santander to effectively identify, monitor and manage environmental risks, aligning with regulatory requirements. The criterion applied in our physical and transition risk assessments follows a five-level scoring from low to very high. On the other hand, for the assessment of credit risks, the corporate tool 'Klima' is used to monitor the credit portfolios of the Group. This tool includes the prospective analysis of the evolution of businesses by sector and geography, integrating scenario analysis techniques (orderly, disorderly and hot house world) for the calculation of impacts by transition and physical risk, in different time horizons. In addition, during 2023, we have integrated a physical risk assessment module for collateral and the portfolios of clients analysed by economic activity. The following table shows the latest materiality analysis prepared by the Group with data as of the end of the fourth quarter of 2023. TR: Transition Risk. PR: Physical Risk. CIB: REC (on and off-balance sheet loans + guarantees + PFE derivatives). Other segments: Individuals, SCF, Auto USA, Companies and Institutions, and SMEs. Measured with the amount arranged. Other sectors = CIB and Companies NACES outside the perimeter of the risk taxonomy // Individuals and SCF: Cards and Other Consumers, Equity, other than mortgages. Other sectors considered low risk. 0 exposures refers to exposure amounts of less than EUR 500 million. Figures are rounded without decimals. The thermal coal elimination targets are described in Section 5
+
+Finally, we highlight the progress in the methodology of our materiality assessment, with improvements in the scope of the existing methodology, including a more holistic view of how climate and environmental factors can impact the main types of risks established in our management framework. 4. Monitoring
+
+To monitor climate and environment-related factors, we use the Group's risk appetite statement, which is the aggregate level and types of risk that we consider prudent for our business strategy, even in unforeseen circumstances. We constantly monitor the risk profile and our compliance with risk appetite limits through control functions that report to the board. During 2023, we approved new quantitative metrics in the risk appetite statement, in addition to those we established for thermal coal and energy, for the energy (oil and gas), steel and aviation sectors, which we will implement and monitor in 2024. In addition, for the automotive sector, we are advancing in the design of a quantitative metric for approval in 2024 and effective implementation in 2025. Report with Prudential Relevance June 2024 Pillar 3
+
+10 Another relevant monitoring mechanism is our ESG Regulatory Radar, which allows us to monitor regulatory changes related to the ESG regulatory framework, among others, as well as the potential efforts and financial impacts that the implementation of these changes may entail. In addition, the Risk, Compliance and Conduct function monitors ESG initiatives (including acquisitions and disposals) presented to the investment forum, whose delegated authorities emanate from the Executive Committee of the Board, as well as to the corporate product governance forum (CPGF). The time horizons of our risk appetite framework are aligned with the horizons of the commitments made, both in the medium (2030) and long term (2050). 5. Mitigation
+
+Policies are a key element for mitigating risks. We have updated our environmental, social and climate change (ESCC) risk management policy, which sets out our public commitments and aims to support our strategy for sensitive, high-attention and prohibited activities. Together with the ESCC risk management policy, Grupo Santander has several internal policies, frameworks and procedures to integrate climate and environmental risks into our core risk management processes. In addition to our policies, frameworks and/or procedures, we have other mitigation mechanisms:
+
+1. Credit Committees: Integrate environmental, social and climate change factors into transaction reviews. 2. CIB Client Ratings: Include qualitative assessments of environmental, social and climate change factors for climate sectors. 3. Special Pricing for Green Products: Offers preferential pricing for environmentally friendly products. 4. Collateral Management: Consider environmental and climate change factors based on locations and Energy Performance Certificates (EPC). 5. Specific Procedures for Analysing ESG Risks: The board and committees ensure that decisions align with environmental, social, climate change and reputational risk policies, using due diligence and special questionnaires. 6. Engagement with Clients in Relevant Sectors: Support clients' transition to a sustainable economy, offering tailored solutions and obtaining ESG risk data for internal management and reporting. 7. ESG Panels: Classify products, services and transactions according to sustainability criteria aligned with the Sustainable Finance and Investment Classification System (SFICS). 8. The multidisciplinary ESG working group on ESG controversies: It is coordinated by the Reputational Risk function and addresses controversies that may impact our reputation, especially those involving highly sensitive initiatives and liability implications as intermediaries in various value chains. Significant threats are escalated to senior management following established governance protocols to ensure the implementation of appropriate mitigating measures. 9. Insurance: It is considered a crucial tool in climate risk management and continually adapts its insurance strategies to respond to evolving risk environments. 10. Reporting
+
+The disclosure of transparent and periodic information to both senior management and the different stakeholders contributes to the management and control of climate and environmental factors and complies at all times with regulation and supervisory expectations. The board is fully informed in accordance with the established governance. Some of our reports that include information on our management of climate and environmental factors are the annual report, the climate finance report, the ICAAP exercise and this report with prudential relevance. International standards on which the environmental risk management framework is based
+
+This section addresses the obligation to provide qualitative information on environmental risk; in particular, in relation to risk management for issue (k). Our ESCC risk management policy defines the criteria relating to investment in entities and provision of financial products and services
+
+3
+
+to clients in the oil and gas, electricity generation and distribution, and mining and metallurgy sectors, as well as derivatives of agricultural commodity businesses, paying special attention to the financing of retail clients with agricultural and meat activities in the Amazon. As indicated in the ESCC risk policy, we are part of the main and most important local and global initiatives supporting inclusive and sustainable growth. Some examples are:
+
+• World Business Council for Sustainable Development (WBCSD). Report with Prudential Relevance June 2024 Pillar 3
+
+11
+
+3
+
+Defined as banking operations involving credit risk, insurance, advisory services, equity and asset management. • Banking Environment Initiative (BEI). • UN Global Compact. • Ecuador Principles. The Group establishes ESG policies, procedures and guidelines that are adapted to local regulations and applied to all units. We systematically review the scope of policies to adopt ESG standards in accordance with international best practices. Additionally, the SFICS is based on international market guidelines, standards and principles, such as the EU taxonomy (including the 4 new environmental objectives of 2023), ICMA, the LMA principles, the UNEP FI framework and the climate bond standards. This guide enables us to track our sustainable activity, guide product development and mitigate the risk of greenwashing. Impact of environmental risk on capital and liquidity risk
+
+This section addresses the obligation to provide qualitative information on environmental risk; in particular, in relation to risk management for issue (o). Risk elements related to the environment and climate change are considered factors that could affect the different types of existing risk across all relevant time horizons. These elements comprise, on the one hand, those derived from the physical effects of climate change and, on the other hand, those derived from the process of transition to a more sustainable economy, including legislative, technological or behavioural changes of economic agents. Given the activities to which the Group's companies are dedicated, it has no liabilities, expenses, assets or contingencies of an environmental nature that could be material in relation to the Group's equity, financial position and consolidated results. Exposures in the sectors potentially most affected by climate factors according to market consensus and the execution of our materiality analysis correspond fundamentally to wholesale clients. The management of these clients, in these sectors, includes the consideration of climate aspects in their initial analysis, in the granting of credit, and in the preparation and review of their credit ratings (ratings). These ratings, in turn, influence the parameters used to calculate their losses (typically through the probability of default, PD). In this way, when climate elements are relevant, they have an impact, jointly with other elements of analysis, on the loss calculations that underpin capital and provisions. In addition, within the regulatory capital adequacy (ICAAP) and liquidity stress test exercises (a component of the ILAAP), climate and environmental scenarios and risk factors have been included covering both physical and transition events. These contribute to the estimation of potential impacts on the occurrence of one or more environmental risk events on the Group's position in such scenarios. Grupo Santander has also participated in the various regulatory climate stress tests recently carried out, which have been catalogued as learning exercises in the industry. The results of these exercises show that, overall, the current coverage of potential losses would be adequate in the time horizons of the maturities of our portfolios. For all of the above, Grupo Santander considers that, with the best information available as of the date of preparation of these consolidated annual accounts, there is no significant additional impact derived from climate and environmental risk on the Group's equity, financial position and results for the 2023 financial year. However, given the evolving nature of this field, Grupo Santander, together with the rest of the financial industry, is working on further developing methodologies to improve the measurement of these potential losses, taking into consideration new management needs, industry best practices and the regulatory/supervisory requirements that are currently being defined. In particular, we are monitoring progress in this regard both in the prudential field (mandate of the European Banking Authority in Article 501c of Regulation (EU) 575/2013), and that resulting from the plan for the second phase of the post-implementation review of IFRS 9 by the IASB in the area of expected loss calculation, scheduled for 2024. Availability, quality and accuracy of data
+
+This section addresses the obligation to provide qualitative information on environmental risk; in particular, in relation to risk management for issue (p). As the EBA states in the Report on management and supervision of ESG risks for credit institutions and investment firms, one of the main challenges faced by financial institutions in the integration of ESG risks is the insufficiency of data. Therefore, Grupo Santander, together with the rest of the industry, is working to increase the granularity and quality of the ESG data needed for management, highlighting among others:
+
+• The availability of energy efficiency certificates, especially in those geographies where there is no specific regulation or requirement. • The obtaining and availability of the financed emissions of the clients, information that will improve in Europe with the recent entry into force of the regulation in this respect (CSRD). • Improving the granularity and accuracy of the information needed to assess physical risks. To achieve the above, we are working on the following lines of work:
+
+• Strengthen the internal ESG information available. • Reinforce the client onboarding and risk admission process. Report with Prudential Relevance June 2024 Pillar 3
+
+12 • Supplement available information through external providers. • Assess the development of models and proxies to be able to estimate the unavailable information once the other three previous initiatives have been applied. Transmission channels between environmental risks with other risks in the management framework
+
+This section addresses the obligation to provide qualitative information on environmental risk; in

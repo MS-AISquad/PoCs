@@ -2,10 +2,12 @@ import json
 import sys
 import re
 import os
+from datetime import datetime as dt
 from pathlib import Path
 from typing import List, Optional
 from translator import GeminiTranslator
 from evaluator import TranslationEvaluator
+from scraper import Reader
 
 
 def split_sentences(text: str) -> List[str]:
@@ -17,8 +19,7 @@ def split_sentences(text: str) -> List[str]:
 
 def read_file(file_path: str) -> str:
     try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            return f.read()
+        return Reader(file_path)
     except Exception as e:
         print(f"Error reading file {file_path}: {str(e)}")
         sys.exit(1)
@@ -75,27 +76,30 @@ def main():
     translate_by_sentence = input("Enter 'y' for yes or 'n' for no: ").strip().lower() == 'y'
     
     print(f"\nReading input file: {input_file}")
-    source_text = read_file(input_file)
-    source_sentences = split_sentences(source_text)
+    source_file_obj = read_file(input_file)
+    source_text = source_file_obj.text
+    source_sentences = split_sentences('\n\n'.join(source_text))
     print(f"Found {len(source_sentences)} sentences to translate")
     
     reference_sentences = None
     if reference_file:
         print(f"Reading reference file: {reference_file}")
-        reference_text = read_file(reference_file)
-        reference_sentences = split_sentences(reference_text)
+        reference_file_obj = read_file(reference_file)
+        reference_text = reference_file_obj.text
+        reference_sentences = split_sentences('\n\n'.join(reference_text))
         print(f"Found {len(reference_sentences)} reference sentences")
     
     try:
         translator = GeminiTranslator()
+        start = dt.now()
         print(f"\nTranslating from {source_lang_full} to {target_lang_full}...")
         if translate_by_sentence:
             translations = translator.translate_batch(source_sentences, source_lang_full, target_lang_full)
         else:
-            translations = translator.translate_text(source_text, source_lang_full, target_lang_full)
+            translations = translator.translate_text(' '.join(source_text), source_lang_full, target_lang_full)
             translations = split_sentences(translations)
         print(f"Translation complete!")
-        
+        total_time = dt.now() - start
         results = {
             "translation_direction": direction,
             "model": "gemini-2.5-flash",
@@ -105,13 +109,18 @@ def main():
         
         original_file = f"{output_name}_original.txt"
         with open(original_file, 'w', encoding='utf-8') as f:
-            f.write(source_text)
+            f.write(' '.join(source_text))
         print(f"\nOriginal text saved to: {original_file}")
         
         translated_file = f"{output_name}_translated.txt"
         with open(translated_file, 'w', encoding='utf-8') as f:
             f.write(' '.join(translations))
         print(f"Translated text saved to: {translated_file}")
+
+        time_file = f"{output_name}_time.txt"
+        with open(time_file, 'w', encoding='utf-8') as f:
+            f.write('Total translation time: ' + str(total_time))
+        print(f"Time text saved to: {time_file}")
         
         if reference_sentences:
             print("\nEvaluating translations...")

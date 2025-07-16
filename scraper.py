@@ -5,56 +5,72 @@ import requests
 from io import BytesIO
 
 
-def read_pdf(file_path: str) -> list[str]:
-
-    if file_path.startswith('http'):
+class Reader:
+    def __init__(self, path: str):
+        self.path = path
+        self.doc = None
+        if path.endswith('.pdf'):
+            self.text = self.read_pdf(path)
+        elif path.endswith('.txt'):
+            self.text = [self.read_txt(path)]
+        elif path.endswith('.docx'):
+            self.doc, self.text = self.read_docx(path)
+        elif path.startswith('http'):
+            self.text = [self.read_webpage(path)]
+        else:
+            raise ValueError(f'Path was not recognized: \n{path}')
         
-        req = requests.get(file_path)
-        assert req.status_code == 200, f'Request for pdf file was unsuccessful:\n{file_path}'
-        reader = pypdf.PdfReader(BytesIO(req.content))
 
-    else:
+    def read_pdf(self, file_path: str) -> list[str]:
 
-        # creating a pdf reader object
-        reader = pypdf.PdfReader(file_path)
-    
-    text = [page.extract_text() for page in reader.pages]
-    return text
+        if file_path.startswith('http'):
+            
+            req = requests.get(file_path)
+            assert req.status_code == 200, f'Request for pdf file was unsuccessful:\n{file_path}'
+            reader = pypdf.PdfReader(BytesIO(req.content))
 
+        else:
 
-def read_txt(file_path):
-
-    text = open(file_path, 'r').read()
-    return text
-
-
-def read_webpage(url):
-
-    req = requests.get(url)
-    assert req.status_code == 200, f'Request for webpage file was unsuccessful:\n{url}'
-
-    return req.text
+            # creating a pdf reader object
+            reader = pypdf.PdfReader(file_path)
+        
+        text = [page.extract_text() for page in reader.pages]
+        return text
 
 
-def read_docx(file_path: str) -> list[Paragraph]:
+    def read_txt(self, file_path):
 
-    doc = Document('../documents/Test document.docx')
+        text = open(file_path, 'r').read()
+        return text
 
-    paragraph_lst = []
-    paragraph_lst.extend(doc.paragraphs)
-    paragraph_lst.extend(paragraph 
-                         for section in doc.sections 
-                         for paragraph in section.header.paragraphs)
-    paragraph_lst.extend(paragraph 
-                         for section in doc.sections 
-                         for paragraph in section.footer.paragraphs)
-    paragraph_lst.extend(paragraph 
-                         for table in doc.tables 
-                         for row in table.table.rows 
-                         for cell in row.cells 
-                         for paragraph in cell.paragraphs)
-    
-    return doc, paragraph_lst
+
+    def read_webpage(self, url):
+
+        req = requests.get(url)
+        assert req.status_code == 200, f'Request for webpage file was unsuccessful:\n{url}'
+
+        return req.text
+
+
+    def read_docx(self, file_path: str) -> list[Paragraph]:
+
+        doc = Document('../documents/Test document.docx')
+
+        paragraph_lst = []
+        paragraph_lst.extend(doc.paragraphs)
+        paragraph_lst.extend(paragraph 
+                            for section in doc.sections 
+                            for paragraph in section.header.paragraphs)
+        paragraph_lst.extend(paragraph 
+                            for section in doc.sections 
+                            for paragraph in section.footer.paragraphs)
+        paragraph_lst.extend(paragraph 
+                            for table in doc.tables 
+                            for row in table.table.rows 
+                            for cell in row.cells 
+                            for paragraph in cell.paragraphs)
+        
+        return doc, paragraph_lst
     
 
 
@@ -86,7 +102,9 @@ def translate(text):
 # below is an example of how translation can be done for docx and re-inserted with the same structure.
 # note that run-level format/style is lost because we won't want to translate below sentence-level,
 # so only paragraph-level format/style can be maintained
-doc, paragraphs = read_docx(r'documents\Test document.docx')
+"""
+read_doc = Reader(r'documents\Test document.docx')
+doc, paragraphs = read_doc.doc, read_doc.text
 for p in paragraphs:
     text = p.text
     # perform translation, below is a placeholder function:
@@ -94,4 +112,5 @@ for p in paragraphs:
     p.text = translated
 
 doc.save(r'documents\test_output.docx')
+"""
 

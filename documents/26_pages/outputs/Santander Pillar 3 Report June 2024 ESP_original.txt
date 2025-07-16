@@ -1,0 +1,2297 @@
+Pilar 3 - Informe con Relevancia Prudencial Junio 2024
+Riesgos ESG
+santander.com 
+ 1
+RIESGOS ESG
+1.1. Riesgo medioambiental 3
+   1.1.1. Estrategia de negocio y procesos 3
+   1.1.2. Gobierno 6
+   1.1.3. Gestión del riesgo 9
+1.2. Riesgo social 17
+1.2.1. Estrategia de negocio y procesos 17
+1.2.2. Gobierno 19
+1.2.3. Gestión del riesgo 21
+1.3. Riesgo de gobierno 23
+Glosario 25
+ 1. RIESGOS ESG
+1.1. Riesgo medioambiental
+1.1.1. Estrategia de negocio y procesos
+Este apartado aborda la obligación de información 
+cualitativa sobre el riesgo medioambiental; en 
+particular en lo relativo a la estrategia de negocio y 
+procesos para las cuestiones (a), (b) y (c)
+Este es un resumen de nuestra estrategia climática global. 
+Para más información, consulte nuestro Informe anual y el 
+climate finance report , disponibles en nuestro sitio web 
+corporativo
+Nuestro enfoque 
+Combatir el cambio climático es un objetivo clave para 
+Santander. Apoyamos los objetivos del Acuerdo de París y 
+tenemos la ambición de alcanzar cero emisiones netas de 
+carbono para 2050. Nuestras principales líneas de 
+actuación son: 
+               
+Para cumplir estos objetivos, dentro de un conjunto más amplio de objetivos ESG, el Grupo se ha fijado algunas metas 
+relacionadas con el clima y el medio ambiente: 
+          
+Informe con Relevancia Prudencial junio 2024 Pilar 3
+3
+ 1. En los países donde podemos verificar la electricidad proveniente de fuentes renovables en las propiedades de Banco Santander. Considera los 10 principales países en 
+los que operamos.
+2. Incluye la contribución del Grupo Santander a la financiación verde: financiación de proyectos; préstamos sindicados; bonos verdes; financiación de capital; financiación 
+de exportaciones, servicios de asesoría, estructuración y otros productos, para ayudar a los clientes a hacer la transición a una economía baja en carbono.
+3. Las cifras mostradas son las más recientes disponibles. Dada la disponibilidad limitada de datos de los clientes para evaluar las emisiones financiadas, planeamos 
+proporcionar una actualización del progreso de los objetivos en las próximas divulgaciones. Se ha utilizado la metodología de cálculo interna de Banco Santander, basada 
+en la Asociación para la Contabilidad Financiera del Carbono (PCAF). Véase más información en la sección 6. Apoyando la transición verde.
+4. En el Informe Anual 2021 y el Informe de Finanzas Climáticas, evaluamos las emisiones financiadas de 2019 de nuestra cartera de generación de energía, incluyendo 
+garantías y otros tipos de exposición fuera del balance a nuestros clientes que no implican financiación actual. Dado que, según el estándar PCAF, dicha exposición no 
+debe calcularse si su factor de atribución es 'pendiente', sobre-atribuimos las emisiones de nuestros clientes corporativos. Por lo tanto, la intensidad de las emisiones de 
+referencia de 2019 ha sido restablecida de 0,23 a 0,21. El objetivo y la ambición climática permanecen para este sector.
+5. Préstamos al consumo para la adquisición de automóviles de pasajeros en Europa, cubriendo una mayoría significativa de la exposición.
+6. Emisiones de alcance 1 y 2 y emisiones de alcance 3 de los desplazamientos de empleados y viajes de negocios. Considera las empresas de propiedad total en 
+Argentina, Brasil, Chile, Alemania, México, Polonia, Portugal, España, el Reino Unido y los Estados Unidos.
+Oportunidades Climáticas
+Trabajar con los clientes para apoyar su transición y reducir las emisiones de carbono será clave para lograr nuestra ambición de 
+generar cero emisiones netas para 2050. Para lograr esto, nuestros equipos se involucran con los clientes, con el apoyo de 
+equipos especializados en medio ambiente, social y gobernanza (ESG) en Santander Corporativo & Banca de Inversión (CIB), 
+Gestión de Patrimonios & Seguros  (Wealth) y Banca Minorista y Comercial.
+Informe con Relevancia Prudencial junio 2024 Pilar 3
+4 Nuestra ambición net zero
+Según el informe anual , nuestra ambición es llegar a las 
+cero emisiones netas de carbono para 2050. Esto se aplica a 
+las operaciones y emisiones del Grupo en relación con 
+nuestros servicios de préstamo, asesoramiento e inversión.
+Desde 2021, somos miembros fundadores de la Net Zero 
+Banking Alliance (NZBA, en el marco de la Iniciativa 
+Financiera del Programa de las Naciones Unidas para el 
+Medio Ambiente), por lo que el Grupo se compromete a:
+• Apoyar la transición de las emisiones de gases de efecto 
+invernadero (GEI) operativas y atribuibles de las 
+carteras de préstamos e inversiones hacia la senda de 
+las cero emisiones netas para mediados de siglo.
+• Establecer objetivos intermedios para los sectores de 
+altas emisiones de GEI para 2030 (o antes).
+Metas de inversión hacia objetivos 
+medioambientales
+En la sección 6 "Financing the green transition"  del climate 
+finance report, se afirma que para lograr nuestra ambición 
+de convertirnos en líderes en finanzas sostenibles en 
+nuestros mercados, estamos movilizando 120 MM EUR en 
+finanzas verdes para 2025 y 220 MM EUR para 2030. Según 
+el informe anual, en 2023, recaudamos y facilitamos 20,2
+1
+ 
+MM EUR en financiación verde, lo que suma 114,6 MM EUR 
+desde 2019.
+Nuestro objetivo es ofrecer a nuestros clientes soluciones 
+verdes globales y locales en SCIB, banca minorista y 
+comercial, y sensibilizar a nuestras comunidades locales.
+Las principales prioridades de "Green Finance"  son 
+establecer una infraestructura sólida mediante la aplicación 
+del sistema de clasificación de finanzas e inversiones 
+sostenibles (SFICS) y hacer crecer el negocio de las finanzas 
+verdes. 
+Límites para evaluar y abordar el riesgo 
+ambiental
+Nuestra política de gestión de riesgos medioambientales, 
+sociales y de cambio climático (ESCC, por sus siglas en 
+inglés), que revisamos anualmente, define los criterios 
+relativos a la inversión en entidades y prestación de 
+productos y servicios financieros
+2
+ a los clientes de los 
+sectores de Petróleo y Gas, Generación y Distribución de 
+Electricidad, y Minería y Metalurgia, así como los derivados 
+de negocios con materias primas agrícolas. Estas 
+restricciones han sido definidas de forma consistente con 
+nuestras políticas internas de sostenibilidad y derechos 
+humanos, con base en las prácticas de mercado y de las 
+reuniones con las ONGs y otras partes interesadas externas.
+Resumimos algunos ejemplos de las restricciones:
+• Cualquier proyecto o actividad  de extracción de 
+petróleo y gas, generación o transporte de electricidad, 
+minería, manufactura, plantaciones o grandes 
+proyectos de infraestructura, que pongan en riesgo 
+zonas clasificadas por las listas de sitios Ramsar, 
+sitios del Patrimonio Mundial o por la Unión 
+Internacional para la Conservación de la Naturaleza 
+(UICN) como categorías I, II, III o IV.
+• Petróleo y gas : nuevos clientes de exploración y 
+producción de petróleo, excepto operaciones de 	
+financiación específica para nuevas instalaciones de 
+energías renovables. También la financiación directa a 
+nuevos proyectos greenfield de exploración y 
+producción de petróleo.
+• Generación de energía : a partir de 2030, cualquier 
+cliente en el que la generación de energía a partir del 
+carbón represente directamente más del 10% de sus 
+ingresos en términos consolidados. Nuevos clientes en 
+los que la generación de energía a partir del carbón 
+representa directamente más del 25% de sus ingresos 
+en términos consolidados, excepto operaciones de 
+financiación específica para nuevas instalaciones de 
+energías renovables. En estos casos, el cliente no podrá 
+estar desarrollando nuevas centrales térmicas de 
+carbón y/o ampliando las existentes y deberá tener un 
+plan robusto, creíble y con objetivos medibles que 
+muestren que los ingresos provenientes de la 
+generación de energía a partir del carbón no superarán 
+el umbral del 10% en 2030. Se podrá trabajar con 
+nuevos clientes en los que la generación de energía a 
+partir del carbón representa directamente menos del 
+25% de sus ingresos en términos consolidados, siempre 
+que el cliente cuente con un plan creíble para reducir al 
+10% o inferior sus ingresos provenientes de la 
+generación de energía a partir del carbón en 2030; y no 
+estar desarrollando nuevas centrales térmicas de 
+carbón y/o ampliando las existentes.
+• Minería y metalurgia:  a partir de 2030, clientes que 
+posean explotaciones de minería de carbón térmico en 
+todo el mundo. Nuevos clientes con operaciones y 
+proyectos de minas de carbón térmico en todo el 
+mundo, con excepción de operaciones de financiación 
+específica de energías renovables. En estos casos, el 
+cliente deberá tener un plan robusto, creíble y con 
+objetivos medibles que muestren que no explotará 
+minas de carbón térmico en 2030. Financiación de 
+proyectos para nuevas minas de carbón térmico o la 
+ampliación de las mismas.
+• Soft commodities: cliente dedicado a la extracción de 
+especies autóctonas de maderas tropicales no 
+certificadas por el consejo de administración forestal 
+(FSC, por sus siglas en inglés) o a los procesadores de 
+aceite de palma que no sean miembros o estén 
+certificados por la mesa redonda sobre aceite de palma 
+sostenible (RSPO, por sus siglas en inglés). También los 
+proyectos de desarrollos en turberas en geografías de 
+alto riesgo.
+Esta información se recoge en la Política ESCC.
+Informe con Relevancia Prudencial junio 2024 Pilar 3
+5
+1
+ Datos preliminares, ya que las tablas de clasificación definitivas para 2023 no estaban disponibles en la fecha de cierre de la redacción de este informe. Esta información 
+se actualizará en el próximo Climate Finance Report.
+2
+ Definida como operativa bancaria que implique riesgo de crédito, seguros, servicios de asesoramiento, equity y gestión de activos. Políticas y procedimientos relacionados con 
+el compromiso con los clientes en sus 
+estrategias para mitigar y reducir los 
+riesgos medioambientales
+Este apartado aborda la obligación de información 
+cualitativa sobre el riesgo medioambiental; en 
+particular en lo relativo a la estrategia de negocio y 
+procesos para la cuestión (d)
+Como se discutió en el  climate finance report,  nuestro 
+enfoque de compromiso con el cliente pretende facilitar el 
+logro de nuestros objetivos de emisiones y desarrollar un 
+profundo conocimiento de las estrategias de transición de 
+nuestros clientes hacia modelos de negocio bajos en 
+carbono. 
+El enfoque se apoya en procesos de gobernanza, con la 
+participación de diversas partes interesadas internas, como 
+los equipos de  front office , las funciones de reporting de 
+riesgos, así como la alta dirección para orientar las posibles 
+acciones de dirección de la cartera. 
+Recopilar información
+Recopilamos información relevante como parte del diálogo 
+regular con los clientes y su compromiso. Además, 
+obtenemos información específica relacionada con el clima 
+a través de solicitudes personalizadas que contienen 
+elementos enfocados en la transición, diseñados para 
+ayudarnos a comprender mejor las estrategias de 
+descarbonización de las empresas. Asimismo, buscamos 
+obtener información fiable y coherente de terceros creíbles 
+para complementar nuestra comprensión.
+Esta información se recopilará y actualizará tanto en la 
+etapa de incorporación del cliente, como parte de la 
+revisión regular de negocios y evaluación de riesgos con 
+cada cliente, que se realiza al menos una vez al año.
+Evaluar 
+Nuestra evaluación consiste en un enfoque de dos pasos 
+diseñado para categorizar a nuestros clientes según su 
+trayectoria de emisiones y la calidad percibida de su 
+estrategia de transición. 
+El primer paso implica evaluar cómo la trayectoria de 
+emisiones de nuestros clientes se alinea con nuestra línea 
+de base actual del portafolio sectorial y los objetivos 
+futuros del portafolio sectorial. El segundo paso evalúa la 
+calidad del plan de transición de cada cliente. Nuestra 
+metodología de evaluación de planes de transición se 
+centra en cuatro pilares: Objetivos, Plan de Acción, 
+Divulgación y Gobernanza. Utilizamos metodologías 
+establecidas de evaluación de planes de transición, como 
+TPI (Iniciativa de Trayectoria de Transición), CDP, ACT 
+(Evaluación de la Transición hacia un Carbono Bajo), 
+Climate Action 100+, TCFD, así como otras iniciativas 
+relacionadas, incluyendo el Grupo de Trabajo para Planes 
+de Transición del Reino Unido (TPT).
+Compromiso
+Nuestro sistema de clasificación climática de clientes busca 
+facilitar un diálogo de transición personalizado, para ayudar 
+a los clientes de niveles inferiores a ascender a niveles 
+superiores con el tiempo.
+En 2024, planeamos centrar nuestros esfuerzos de 
+compromiso con los clientes en aquellos de niveles 
+inferiores. Estamos desarrollando paneles de evaluación de 
+transición interna para los gerentes de relaciones. Estos 
+paneles están diseñados para ayudar a identificar áreas 
+prioritarias a nivel de cliente, comparar la industria y 
+encontrar oportunidades para apoyar a nuestros clientes en 
+el financiamiento de su transición.
+Revisión
+La evaluación del plan de transición del cliente la realizan 
+los gerentes de relaciones, en cooperación con analistas de 
+riesgo ESCC, seguida de revisiones a nivel de portafolio por 
+los equipos de Soluciones ESG y Alineación de Portafolio 
+para determinar las clasificaciones finales. La revisión a 
+nivel de portafolio es importante para ayudar a identificar 
+tendencias clave y desafíos en cada sector, así como para 
+mejoras futuras en la metodología de evaluación de planes 
+de transición.
+Durante el último año, el proceso de evaluación de 
+clasificación climática de dos pasos se amplió para incluir 
+Energía, Acero y Aviación. Se completaron evaluaciones 
+iniciales para ambos pasos. Posteriormente, las 
+evaluaciones de calidad del plan de transición fueron 
+revisadas y mejoradas, basándose en metodologías de 
+referencia actualizadas e investigaciones específicas del 
+sector. Esto llevó a la inclusión de preguntas adicionales 
+específicas del sector para evaluar la calidad del plan de 
+transición. En 2024, planeamos expandir nuestro proceso 
+de evaluación de clasificación climática de clientes para 
+incluir el sector Automotriz también.
+1.1.2. Gobierno
+Este apartado aborda la obligación de información 
+cualitativa sobre el riesgo medioambiental; en 
+particular en lo relativo a gobierno para las cuestiones 
+(e), (h) y (g)
+Órganos de gobierno y frecuencia
+Según el informe anual, el consejo de administración  
+supervisa nuestra actividad relacionada con el cambio 
+climático y la transición verde. En 2023, el consejo debatió 
+estos temas en siete reuniones, incluido el plan Climate-
+Net Zero Ambition, la revisión de la política de riesgos ESCC 
+y los informes de divulgación. Además, las unidades de 
+negocio y los negocios globales informan anualmente al 
+consejo sobre sus principales iniciativas en materia ESG.
+El consejo de administración tiene la función de aprobar la 
+agenda de banca responsable y fijar la estrategia, aprobar 
+políticas relacionadas en materia de negocio responsable y 
+sostenibilidad y, en particular, en materia medioambiental 
+y social. Además de garantizar que el alineamiento de la 
+estrategia de banca responsable es coherente con la 
+estrategia del Grupo, entre otras.
+La comisión de banca responsable, sostenibilidad y 
+cultura (CBRSC) es el máximo órgano de gobierno para la 
+supervisión de la elaboración y la puesta en práctica de la 
+estrategia y las políticas de sostenibilidad del Grupo, en 
+apoyo del consejo de administración. En 2023, la CBRSC se 
+reunió seis veces y ha revisado temas relacionados con el 
+cambio climático y la transición verde en cinco sesiones.
+La CBRSC coordina su actividad con otros comités del 
+consejo, en particular con el comité de supervisión de 
+Informe con Relevancia Prudencial junio 2024 Pilar 3
+6 riesgos, regulación y cumplimiento, con el comité de 
+auditoría y con el comité de retribuciones. El primero ha 
+evaluado las políticas ESG y el apetito de riesgo ESG, el 
+segundo ha supervisado la información financiera y no 
+financiera, así como los procesos y controles relacionados, y 
+el tercero ha validado los incentivos en materia de 
+sostenibilidad incorporados en los esquemas retributivos.
+La reunión de dirección , presidida por el consejero 
+delegado,  analiza los avances en la agenda de banca 
+responsable, incluido el cambio climático, con foco en la 
+implementación de las recomendaciones del Task Force on 
+Climate-Related Financial Disclosures (TCFD) y en las 
+oportunidades de negocio ESG. En 2023 fue informado en 3 
+ocasiones sobre los avances en la agenda de banca 
+responsable.
+La unidad corporativa de banca responsable  coordina e 
+impulsa la agenda de banca responsable, con el apoyo de 
+un asesor sénior sobre prácticas empresariales 
+responsables, que depende directamente de la presidenta 
+ejecutiva.
+La red de banca responsable está formada por la unidad 
+corporativa de banca responsable y los equipos de banca 
+responsable de nuestras filiales y de nuestros negocios 
+globales que ejecutan la agenda de sostenibilidad de 
+acuerdo con la estrategia y políticas corporativas.
+Las comisiones de auditoría, retribuciones y riesgos  
+también respaldaron y revisaron cuestiones relacionadas 
+con la sostenibilidad.
+Integración de los órganos de gestión de 
+los riesgos medioambientales, estructura 
+organizativa tanto de las líneas de negocio 
+como de las funciones de control interno
+Este apartado aborda la obligación de información 
+cualitativa sobre el riesgo medioambiental; en 
+particular en lo relativo a gobierno para la cuestión (f)
+En 2023 seguimos integrando la gestión climática en las 
+actividades habituales de la división de Corporate & 
+Investment Banking, en Riesgos y en Banca Responsable. 
+Por ejemplo, la división de Corporate & Investment Banking 
+creó un equipo dedicado al seguimiento del alineamiento 
+de carteras y reforzó su gobierno correspondiente.
+Además de Corporate & Investment Banking, varias 
+unidades locales participan en un proceso coordinado por la 
+división de Banca Responsable del Grupo. El objetivo es 
+avanzar en la agenda de descarbonización, promover el 
+intercambio de conocimientos y experiencia entre los 
+equipos locales y buscar sinergias para diseñar planes de 
+descarbonización fiables para carteras de banca comercial.
+Otras iniciativas y grupos a escala corporativa que apoyan a 
+gobierno se reúnen regularmente para implementar 
+nuestra agenda de cambio climático o brindar asesoría 
+respecto a ella. Por ejemplo, nuestro grupo de trabajo sobre 
+sostenibilidad de las políticas públicas asesora sobre 
+regulación, el grupo de trabajo sobre huella ambiental 
+discute temas relacionados con nuestra huella y estudia 
+formas de reducirla, y el grupo de trabajo sobre bonos 
+sostenibles supervisa las emisiones de bonos sostenibles.
+El plan de auditoría de 2023, basado en el risk assessment 
+anual, ha seguido manteniendo los factores ESG y el riesgo 
+de clima como uno de los principales puntos de atención. 
+En este sentido, durante el ejercicio se han revisado los 
+avances sobre las principales iniciativas mantenidas, tanto 
+para atender los requerimientos de divulgación de 
+información ESG como para integrar el cambio climático en 
+los procesos de negocio y gestión de los riesgos del Grupo. 
+Desde 2020, Santander ha evaluado el avance en 
+financiación verde, el progreso realizado en los objetivos 
+climáticos y otros objetivos ESG para el programa de 
+remuneración variable del Grupo.
+Santander integra los efectos a corto, medio y largo plazo 
+de los riesgos medioambientales en su gestión de riesgos 
+mediante la integración del riesgo climático y medio 
+ambiental en su planificación financiera estratégica 
+principal, que comprende la elaboración del presupuesto 
+anual, nuestro plan financiero trienal y el plan estratégico a 
+largo plazo del Grupo.
+Formación y desarrollo de habilidades ESG
+Hemos continuado trabajando para familiarizar a todos los 
+empleados con la sostenibilidad, los Objetivos de 
+Desarrollo Sostenible de la ONU y el cambio climático 
+mediante capacitación para negocios globales y 
+subsidiarias. El Grupo ha diseñado un recorrido de 
+aprendizaje progresivo de 3 niveles para adaptarse a las 
+necesidades evolutivas de los negocios y los empleados. 
+Cada nivel abarca un conjunto de actividades y módulos:
+• Conciencia y conocimiento
+• Especialización
+• Certificación
+En 2024, en colaboración con equipos globales y locales, 
+continuaremos identificando y adaptándonos a las 
+necesidades empresariales en evolución mediante: el 
+desarrollo de formación obligatoria e itinerarios de 
+aprendizaje personalizados, la expansión de charlas ESG y 
+el contenido del canal a nuevos temas, y la mejora del 
+diseño del sitio web de ESG.
+Nuestros diferentes programas de formación incluyen:
+1. Conciencia del empleado:  Los departamentos envían 
+boletines y reportes relacionados con el clima, y 
+frecuentemente publican noticias y artículos en la intranet 
+para aumentar la conciencia ESG de los empleados.
+2. Charlas ESG: Seminarios de una hora por equipos de ESG 
+que cubren varios temas como Economía Circular, 
+Investigación de Renta Variable ESG y Green Washing para 
+mejorar la comprensión de los compromisos y proyectos 
+ESG de Santander.
+3. 'Training Pills' Integración de ESCC: Una iniciativa que 
+comparte mejores prácticas y conocimientos expertos sobre 
+cómo integrar procesos como la evaluación de materialidad 
+y sectorial del clima en la gestión de ESCC.
+4. Capacitación Climática para Miembros del Consejo:  Los 
+miembros del consejo completaron capacitación sobre 
+cambio climático, cubriendo el Acuerdo de París, net zero, 
+gestión de riesgos climáticos y riesgos ESG, con sesiones 
+adicionales para miembros del consejo de subsidiarias en 
+2023.
+Informe con Relevancia Prudencial junio 2024 Pilar 3
+7
+ 5. Capacitación ESG en CIB:  El personal senior de CIB recibe 
+formación sobre temas de transición, incluidas regulaciones 
+climáticas, greenwashing y marcos para evaluar los planes 
+de transición de los clientes, a través de sesiones con 
+expertos externos.
+6. Capacitación ESG en Banca Comercial:  Se ofrece 
+capacitación ESG específica a los equipos de Banca 
+Comercial, con extensas horas dedicadas a sectores 
+económicos, ejemplificadas por las más de 750 horas de 
+formación del Centro de Competencia ESCC en España.
+7. Capacitación ESG en Gestión de Patrimonios y Seguros: 
+Aumento de la formación ESG para empleados en 
+Santander Asset Management, Banca Privada y Seguros a 
+través de certificaciones internas y CESGA/CFA, que van de 
+16 a 150 horas.
+Alineamiento de la política de 
+remuneración con los objetivos de riesgo 
+medioambiental
+Este apartado aborda el requisito de información 
+cualitativa sobre el riesgo medioambiental, en 
+particular en lo relativo a gobierno para la cuestión (i)
+En 2023, nuestros programas de incentivos incluyeron los 
+criterios ESG como palancas para que las acciones de los 
+equipos de Santander fueran coherentes con nuestros 
+objetivos. La remuneración variable (que se aplica a todas 
+las unidades) incluye los criterios ESG desde 2020 y los 
+incentivos a largo plazo (que se aplican a los altos 
+ejecutivos) los incluyen desde 2022. En ambos casos, los 
+cuadros de mando utilizan los objetivos públicos en materia 
+de ESG de Santander, incluyendo clima, finanzas 
+sostenibles, inclusión financiera, diversidad, equidad e 
+inclusión (DE&I) y la inversión socialmente responsable. 
+La retribución variable de los consejeros ejecutivos consiste 
+en un único incentivo, sujeto al logro de objetivos a corto y 
+largo plazo, que se estructura del siguiente modo:
+• El importe final de la retribución variable se 
+determinará a inicios del ejercicio siguiente (2025) 
+sobre la base del importe de referencia y en función del 
+cumplimiento de los objetivos anuales que se describen 
+en el informe anual.
+• Se abonará un 40% de la retribución variable 
+inmediatamente tras su determinación y el 60% 
+restante se cobrará de forma diferida en partes iguales 
+en cinco años, y sujeta a objetivos a largo plazo, del 
+siguiente modo:
+◦ El importe diferido de los dos primeros ejercicios, el 
+24% del total, a cobrar en los dos años siguientes, 
+2026 y 2027, estará sujeto a que no concurran las 
+cláusulas malus.
+◦ El importe diferido de los tres siguientes ejercicios 
+(36% del total), a cobrar en 2028, 2029 y 2030, 
+estará sujeto, además de a que no concurran las 
+cláusulas malus, a que se cumplan los objetivos a 
+largo plazo (retribución variable sujeta a objetivos a 
+largo plazo). Los objetivos a largo plazo, descritos 
+en el informe anual, son:
+A. El comportamiento relativo del retorno total del 
+accionista (RTA) de Banco Santander
+B. El retorno sobre el capital tangible (RoTE) de 
+Banco Santander
+C. Métricas ESG
+En relación a las métricas ESG, su consecución dependerá 
+del grado de avance a nivel Grupo en las líneas de acción y 
+objetivos asociados a banca responsable: (1) proporción de 
+mujeres en posiciones directivas sénior, (2) inclusión 
+financiera, (3) inversión socialmente responsable y (4) 
+apoyar la transición. 
+En cuanto a los aspectos medioambientales, estos objetivos 
+abarcan:
+• Inversión socialmente responsable en 2026 como 
+porcentaje del total de activos bajo gestión:
+Inversión socialmente responsable
+B 
+(%) Coeficiente
+≥ 21% 1,25
+≥ 18% pero < 21% 1 – 1,25
+A
+≥ 15% pero < 18% 0 – 1
+A
+< 15% 0
+A. Incremento proporcional del coeficiente en función de su posición dentro de 
+esta línea de la escala
+B. Activos bajo gestión que están alineados con el Sistema de Clasificación de 
+Inversiones y Finanzas Sostenibles (SFICS, por sus siglas en inglés) de 
+Santander. 
+• Apoyar la transición. Este objetivo incluye cómo 
+apoyamos la transición de nuestros clientes y el 
+cumplimiento de un plan de transición:
+Negocio desembolsado y facilitado
+B
+ (Miles 
+de millones de euros) entre 2024-2026 Coeficiente
+≥ 180 1,25
+≥ 150 pero < 180 1 – 1,25
+A
+≥ 110 pero < 150 1
+< 110 0
+A. Incremento proporcional del coeficiente en función de su posición dentro de 
+esta línea de la escala 
+B. Contribución de Grupo Santander a la transición de nuestros clientes: 
+Financiación verde desembolsada y facilitada por CIB (objetivo público), 
+financiación verde y préstamos vinculados a las sostenibilidad de la banca 
+minorista y comercial, y financiación verde de Digital Consumer Bank.
+En lo relativo a la evaluación global de estas métricas ESG, 
+se medirán de manera conjunta con los compromisos de 
+riesgo social recogidos en el apartado Política de 
+remuneración de los aspectos sociales. Cada línea de acción 
+de banca responsable tiene una ponderación diferente:
+• Mujeres en puestos directivos sénior: 20%
+• Inclusión financiera: 20%
+• Inversión socialmente responsable: 10%
+• Apoyo en la transición: 50%
+Más detalle en la sección 6.4 ' Política de remuneraciones 
+de los consejeros para los ejercicios 2024, 2025 y 2026'  del 
+informe anual.
+Acceder al Informe Anual 2023 en la web de Grupo 
+Santander
+Informe con Relevancia Prudencial junio 2024 Pilar 3
+8 1.1.3. Gestión del riesgo
+Este apartado aborda la obligación de información 
+cualitativa sobre el riesgo medioambiental; en 
+particular en lo relativo a la gestión del riesgo para las 
+cuestiones (j), (l), (m), (n) y (q)
+Integración de los factores 
+medioambientales en el marco de riesgos: 
+gestión, fijación de límites y herramientas
+La gestión de los factores de riesgo relacionados con el 
+clima y el medioambiente es esencial para ejecutar nuestra 
+estrategia, contribuir a la transición hacia una economía 
+baja en carbono y alcanzar nuestro compromiso net-zero en 
+2050.
+Como parte de la gestión de los factores de riesgo 
+relacionados con el clima y el medioambiente, estamos 
+introduciendo progresivamente objetivos de 
+descarbonización para los sectores considerados como 
+altamente contaminantes, así como integrándolos de forma 
+gradual en las distintas fases del ciclo de gestión de riesgos 
+y en nuestros procesos transversales de  enterprise risk 
+management como el apetito de riesgo y el ejercicio de 
+identificación de riesgos emergentes, entre otros. Uno de 
+los elementos que ha contribuido a integrar dichos factores 
+en nuestra estrategia es la inclusión de estos en el proceso 
+de concesión y seguimiento de crédito.
+En Grupo Santander, llevamos a cabo una identificación y 
+evaluación de los factores que presentan mayor 
+materialidad para los distintos tipos de riesgo.
+El siguiente gráfico describe cómo estamos integrando los 
+factores climáticos y medioambientales en el ciclo de 
+gestión de riesgos.
+ 
+El ciclo de gestión de riesgos consta de estas fases:
+1. Identificación 
+Para identificar y gestionar riesgos materiales, realizamos 
+periódicamente ejercicios de identificación de riesgos para 
+evaluar eventos potenciales que podrían amenazar el plan 
+estratégico del Grupo, en los que se consideran factores de 
+riesgo ESG, con especial atención al greenwashing, los 
+riesgos ambientales más allá del clima (naturaleza y 
+biodiversidad) y los riesgos sociales, entre otros. 
+La identificación de riesgos nos ayuda a comprender las 
+amenazas internas y externas que el medio ambiente y el 
+cambio climático representan para nuestro modelo de 
+negocio, rentabilidad, solvencia y estrategia. 
+Además, la taxonomía de riesgos, los mapas de calor y los 
+ejercicios de evaluación de materialidad forman la base 
+para clasificar e identificar los riesgos materiales 
+relacionados con el medio ambiente y el clima de nuestras 
+carteras. 
+2. Planificación
+Como parte de nuestros compromisos públicos de 
+sostenibilidad, incluimos objetivos de descarbonización en 
+nuestra planificación estratégica central: a corto plazo para 
+el presupuesto; a mediano plazo para la planificación 
+financiera; a largo plazo para el plan estratégico; junto con 
+análisis ad hoc:
+→ Presupuesto (1 año): proporciona insumos para el 
+plan trienal e incluye tareas para cuantificar los 
+objetivos anuales en los planes de negocio de las 
+subsidiarias de Santander dentro del apetito de riesgo y 
+los planes de liquidez, capital y eficiencia del Grupo. 
+→ Planificación Financiera (3 años): es un proceso clave 
+para la planificación a mediano plazo en el Grupo y sus 
+subsidiarias. Se basa en un enfoque de abajo hacia 
+arriba que facilita una visión agregada y coherente de 
+nuestros procesos. También es la base para preparar el 
+presupuesto anual, el Proceso Interno de Evaluación de 
+la Adecuación de Capital (ICAAP) y el Proceso Interno de 
+Evaluación de la Adecuación de Liquidez (ILAAP). 
+→ Plan Estratégico (≥ 5 años): establece objetivos a 
+largo plazo para las principales subsidiarias y negocios 
+del Grupo Santander. Cubre la visión y prioridades del 
+Grupo en términos de asignación de capital, 
+oportunidades orgánicas e inorgánicas en cada unidad 
+de negocio y región. 
+Los planes estratégicos centrales mencionados nos 
+permiten identificar amenazas a nuestros objetivos, de 
+acuerdo con nuestras políticas y declaración de apetito de 
+riesgo, y proporcionan una visión prospectiva de los riesgos 
+y sus impactos financieros. 
+3. Evaluación
+En el Grupo Santander, los aspectos ambientales, sociales y 
+de gobernanza se consideran factores que pueden impactar 
+los tipos de riesgo existentes en diferentes horizontes 
+temporales, de acuerdo con nuestro Marco Corporativo de 
+Riesgos. Por lo tanto, dichos factores se identifican y 
+evalúan periódicamente, de manera coherente con el nivel 
+de desarrollo del marco regulatorio y las prácticas 
+aplicables. El análisis de materialidad es el proceso de 
+identificar y evaluar aquellos factores ambientales, sociales 
+y de gobernanza que pueden ser relevantes por su impacto 
+potencial en el perfil de riesgo del banco. Conceptualmente, 
+el proceso se lleva a cabo en las siguientes etapas, aunque 
+algunas de estas fases conceptuales ocurren 
+simultáneamente y no de manera secuencial:
+• Identificación de los impulsores ESG
+• Análisis de los canales de transmisión
+• Evaluación de la materialidad del impacto 
+potencial en los principales tipos de riesgo
+Informe con Relevancia Prudencial junio 2024 Pilar 3
+9
+ • Agregación de la visión consolidada de la 
+materialidad
+Utilizamos diversas herramientas de evaluación que nos 
+ayudan a analizar los potenciales impactos de los factores 
+climáticos y medioambientales en la gestión de riesgos 
+financieros y no financieros, tales como las evaluaciones de 
+materialidad, heatmaps cuantitativos y cualitativos, y el 
+análisis de escenarios, entre otras. Por ejemplo, 
+trimestralmente realizamos una evaluación de materialidad 
+para identificar aquellas carteras crediticias más relevantes 
+en términos de riesgos físicos y de transición. 
+Los principales aspectos considerados para la evaluación de 
+materialidad por tipología de riesgo son:
+• identificación de impulsores ESG (véase detalle en 
+la Tabla de Factor Riesgo) y evaluación de los 
+factores del riesgo a través del impacto y la 
+probabilidad;
+• la evaluación del país en función del grado de 
+adopción de medidas urgentes para combatir el 
+cambio climático;
+• la exposición de la cartera en Santander con 
+potencial impacto reputacional y sectores 
+sensibles relacionados con riesgos climáticos y 
+ambientales materiales.
+• escenarios climáticos según NGFS y diferentes 
+horizontes temporales.
+La siguiente tabla proporciona la evaluación de la 
+materialidad de los potenciales impactos derivados de 
+riesgos físico y de transición que pueden actuar como 
+canales de transmisión a las categorías de riesgos 
+existentes a corto, medio y largo plazo. Esta evaluación 
+permite al Grupo Santander identificar, monitorear y 
+gestionar los riesgos ambientales de manera efectiva, 
+alineándose con los requisitos regulatorios. 
+El criterio aplicado en nuestras evaluaciones de riesgo físico 
+y de transición sigue una puntuación en cinco niveles de 
+bajo a muy alto.
+Por otro lado, para la evaluación de riesgos de crédito se 
+utiliza la herramienta corporativa 'Klima' para el 
+seguimiento de las carteras crediticias del Grupo. Esta 
+herramienta incluye el análisis prospectivo de la evolución 
+de los negocios por sector y geografía, integrando técnicas 
+de análisis de escenarios (ordenado, desordenado y  hot 
+house world ) para el cálculo de impactos por riesgo de 
+transición y físico, en distintos horizontes temporales. 
+Además, durante 2023, hemos integrado un módulo de 
+evaluación de riesgo físico para colaterales y las carteras de 
+clientes analizados por actividad económica.
+En la siguiente tabla recogemos el último análisis de 
+materialidad elaborado por el Grupo con datos a cierre del 
+cuarto trimestre de 2023.
+TR: Riesgo de Transición.
+PR: Riesgo Físico.
+CIB: REC (préstamos dentro y fuera del balance + garantías + derivados PFE).
+Otros segmentos: Individuos, SCF, Auto EE.UU., Empresas e Instituciones, y 
+PYMEs. Medido con el monto dispuesto.
+Otros sectores = CIB y Empresas NACES fuera del perímetro de la taxonomía 
+de riesgos // Individuos y SCF: Tarjetas y Otros Consumidores, Patrimonio, 
+otros que no sean hipotecas. Otros sectores considerados de bajo riesgo.
+0 exposiciones se refiere a montos de exposición inferiores a 500 millones de 
+euros. Las cifras se redondean sin decimales.
+Los objetivos de eliminación del carbón térmico se describen en la Sección 5
+Por último, destacamos los progresos en la metodología de 
+nuestra evaluación de la materialidad, con mejoras en el 
+alcance de la metodología existente, incluyendo una visión 
+más holística de cómo los factores climáticos y ambientales 
+pueden impactar en los principales tipos de riesgos 
+establecidos en nuestro marco de gestión. 
+4. Seguimiento
+Para monitorear los factores relacionados con el clima y el 
+medio ambiente, utilizamos la declaración de apetito de 
+riesgo del Grupo, que es el nivel agregado y los tipos de 
+riesgo que consideramos prudentes para nuestra estrategia 
+comercial, incluso en circunstancias imprevistas.
+Constantemente monitoreamos el perfil de riesgo y nuestro 
+cumplimiento con los límites de apetito de riesgo a través 
+de funciones de control que reportan al consejo.
+Durante 2023 aprobamos nuevas métricas cuantitativas en 
+la declaración de apetito de riesgo, además de las que 
+establecimos para el carbón térmico y la energía, para los 
+sectores de energía (petróleo y gas), acero y aviación, que 
+implementaremos y monitorearemos en 2024. Además, 
+para el sector automotriz, estamos avanzando en el diseño 
+de una métrica cuantitativa para su aprobación en 2024 e 
+implementación efectiva en 2025.
+Informe con Relevancia Prudencial junio 2024 Pilar 3
+10 Otro mecanismo relevante de monitoreo es nuestro Radar 
+Regulatorio ESG, que nos permite monitorear los cambios 
+regulatorios relacionados con el marco regulatorio ESG, 
+entre otros, así como los esfuerzos potenciales y los 
+impactos financieros que la implementación de estos 
+cambios puede conllevar.
+Además, la función de Riesgos, Cumplimiento y Conducta 
+monitorea las iniciativas ESG (incluyendo adquisiciones y 
+desinversiones) presentadas al foro de inversiones, cuyas 
+autoridades delegadas emanan del Comité Ejecutivo del 
+Consejo, así como al foro de gobernanza de productos 
+corporativos (CPGF).
+Los horizontes temporales de nuestro marco de apetito de 
+riesgo están alineados con los horizontes de los 
+compromisos adquiridos, tanto a medio (2030) como a 
+largo plazo (2050).
+5. Mitigación
+Las políticas son un elemento clave para mitigar los riesgos. 
+Hemos actualizado nuestra política de gestión de riesgos 
+ambientales, sociales y de cambio climático (ESCC), que 
+establece nuestros compromisos públicos y tiene como 
+objetivo apoyar nuestra estrategia para actividades 
+sensibles, de especial atención y prohibidas. Junto con la 
+política de gestión de riesgos ESCC, el Grupo Santander 
+cuenta con diversas políticas internas, marcos y 
+procedimientos para integrar los riesgos climáticos y 
+ambientales en nuestros procesos de gestión de riesgos 
+fundamentales. 
+Además de nuestras políticas, marcos y/o procedimientos, 
+tenemos otros mecanismos de mitigación:
+1. Comités de Crédito: Integran factores 
+ambientales, sociales y de cambio climático en las 
+revisiones de transacciones.
+2. Calificaciones de Clientes de CIB: Incluyen 
+evaluaciones cualitativas de factores ambientales, 
+sociales y de cambio climático para sectores 
+climáticos.
+3. Precios Especiales para Productos Verdes: Ofrecen 
+precios preferenciales para productos respetuosos 
+con el medio ambiente.
+4. Gestión de Garantías: Consideran factores 
+ambientales y de cambio climático basados en 
+ubicaciones y certificados de rendimiento 
+energético (EPC).
+5. Procedimientos Específicos para Analizar Riesgos 
+ESG: El consejo y los comités aseguran que las 
+decisiones se alineen con las políticas de riesgo 
+ambiental, social, de cambio climático y 
+reputacional, utilizando la debida diligencia y 
+cuestionarios especiales.
+6. Compromiso con los Clientes de Sectores 
+Relevantes: Apoyan la transición de los clientes 
+hacia una economía sostenible, ofreciendo 
+soluciones a medida y obteniendo datos de 
+riesgos ESG para la gestión interna y la 
+presentación de informes.
+7. Paneles ESG: Clasifican productos, servicios y 
+transacciones según criterios de sostenibilidad 
+alineados con el Sistema de Clasificación de 
+Finanzas e Inversiones Sostenibles (SFICS).
+8. El grupo de trabajo multidisciplinario de ESG 
+sobre controversias ESG: Es coordinado por la 
+función de Riesgo Reputacional y aborda 
+controversias que pueden impactar nuestra 
+reputación, especialmente aquellas que 
+involucran iniciativas altamente sensibles e 
+implicaciones de responsabilidad como 
+intermediarios en varias cadenas de valor. Las 
+amenazas significativas se escalan a la alta 
+dirección siguiendo protocolos de gobernanza 
+establecidos para garantizar la implementación 
+de medidas mitigadoras adecuadas.
+9. Seguros: Se considera una herramienta crucial en 
+la gestión del riesgo climático y adapta 
+continuamente sus estrategias de seguros para 
+responder a entornos de riesgo en evolución.
+6. Reporting
+La divulgación de información transparente y periódica 
+tanto a la alta dirección como a los diferentes grupos de 
+interés contribuye a la gestión y control de los factores 
+climáticos y medioambientales y cumple en todo momento 
+con la regulación y las expectativas supervisoras. El consejo 
+está completamente informado de acuerdo con la 
+gobernanza establecida.
+Algunos de nuestros informes que incluyen información 
+sobre nuestra gestión de los factores climáticos y 
+medioambientales son el informe anual, el climate finance 
+report,  el ejercicio ICAAP y el presente informe con 
+relevancia prudencial.
+Estándares internacionales en los que se 
+basa el marco de gestión de riesgos 
+medioambientales
+Este apartado aborda la obligación de información 
+cualitativa sobre el riesgo medioambiental; en 
+particular en lo relativo a la gestión del riesgo para la 
+cuestión (k)
+Nuestra política ESCC de gestión de riesgos define los 
+criterios relativos a la inversión en entidades y prestación 
+de productos y servicios financieros
+3
+ a los clientes de los 
+sectores de petróleo y gas, generación y distribución de 
+electricidad, y minería y metalurgia, así como los derivados 
+de negocios con materias primas agrícolas, prestando 
+especial atención a la financiación de clientes minoristas 
+con actividades agrícolas y cárnicas en el Amazonas. 
+Como se indica en la política de riesgos de la ESCC, 
+formamos parte de las principales y más importantes 
+iniciativas locales y mundiales de apoyo al crecimiento 
+inclusivo y sostenible. Algunos ejemplos son:
+• World Business Council for Sustainable Development 
+(WBCSD).
+Informe con Relevancia Prudencial junio 2024 Pilar 3
+11
+3
+ Definida como operativa bancaria que implique riesgo de crédito, seguros, servicios de asesoramiento, equity y gestión de activos. • Banking Environment Initiative (BEI).
+• UN Global Compact.
+• Principios de Ecuador.
+El Grupo establece políticas, procedimientos y directrices 
+ESG que se adaptan a la regulación local y se aplican a 
+todas las unidades. Revisamos sistemáticamente el alcance 
+de las políticas para adoptar estándares ESG de acuerdo con 
+las mejores prácticas internacionales.
+Adicionalmente, el SFICS,  se basa en pautas, estándares y 
+principios internacionales de mercado, como la taxonomía 
+de la UE (incluyendo los 4 nuevos objetivos ambientales de 
+2023), ICMA, los principios LMA, el marco UNEP FI y los 
+estándares de bonos climáticos.
+Esta guía nos permite realizar un seguimiento de nuestra 
+actividad sostenible, orientar el desarrollo de productos y 
+mitigar el riesgo de greenwashing.
+Impacto del riesgo medioambiental en el 
+riesgo de capital y de liquidez
+Este apartado aborda la obligación de información 
+cualitativa sobre el riesgo medioambiental; en 
+particular en lo relativo a la gestión del riesgo para la 
+cuestión (o) 
+Los elementos de riesgo relacionados con el medio 
+ambiente y el cambio climático se consideran factores que 
+podrían incidir en los diferentes tipos de riesgo existentes 
+en todos los horizontes temporales relevantes. Estos 
+elementos abarcan, por un lado, los derivados de los 
+efectos físicos del cambio climático y, por otra parte, los 
+derivados del proceso de transición a una economía más 
+sostenible, incluyendo cambios legislativos, tecnológicos o 
+de comportamiento de los agentes económicos. 
+Dadas las actividades a las que se dedican las sociedades 
+del Grupo, este no tiene responsabilidades, gastos, activos 
+ni contingencias de naturaleza medioambiental que 
+pudieran ser materiales en relación con el patrimonio, la 
+situación financiera y los resultados consolidados de aquel. 
+Las exposiciones en los sectores potencialmente más 
+afectados por los factores climáticos de acuerdo al 
+consenso de mercado y a la ejecución de nuestro análisis de 
+materialidad corresponden fundamentalmente a clientes 
+mayoristas. La gestión de estos clientes, en dichos sectores, 
+incluye la consideración de los aspectos climáticos en su 
+análisis inicial, en la concesión de crédito, y en la 
+elaboración y revisión de sus calificaciones crediticias 
+(ratings). Estos ratings, a su vez, influyen en los parámetros 
+que se utilizan para calcular sus pérdidas (típicamente a 
+través de la probabilidad de default, PD). De esta manera, 
+cuando los elementos climáticos son relevantes tienen 
+impacto, de forma conjunta a otros elementos de análisis, 
+en los cálculos de pérdidas que sustentan el capital y las 
+provisiones.
+Adicionalmente, dentro de los ejercicios regulatorios de 
+adecuación capital (ICAAP) y de estrés test de liquidez (un 
+componente del ILAAP), se han incluido escenarios y 
+factores de riesgo climáticos y medioambientales cubriendo 
+tanto eventos físicos como de transición. Estos contribuyen 
+a la estimación de potenciales impactos sobre la ocurrencia 
+de uno o varios eventos de riesgo medioambiental sobre la 
+posición del Grupo en dichos escenarios.
+Así mismo, Grupo Santander ha participado en los distintos 
+ejercicios regulatorios de estrés climático llevados a cabo 
+recientemente, los cuales han sido catalogados como 
+ejercicios de aprendizaje en la industria. Los resultados de 
+dichos ejercicios muestran que, en conjunto, la cobertura 
+actual de pérdidas potenciales resultaría adecuada en los 
+horizontes temporales de los vencimientos de nuestras 
+carteras.
+Por todo lo anterior, Grupo Santander considera que, con la 
+mejor información disponible a la fecha de formulación de 
+las presentes cuentas anuales consolidadas, no existe un 
+impacto adicional significativo derivado del riesgo climático 
+y medioambiental sobre el patrimonio, la situación 
+financiera y los resultados del Grupo en el ejercicio 2023.
+No obstante, dada la naturaleza evolutiva de este campo, 
+Grupo Santander junto al resto de la industria financiera, 
+está trabajando en un mayor desarrollo de metodologías 
+que permitan mejorar la medición de estas potenciales 
+pérdidas, teniendo en consideración nuevas necesidades de 
+gestión, las mejores prácticas de la industria y los 
+requerimientos regulatorios/supervisores que se están 
+definiendo en la actualidad. En particular, monitorizamos 
+los avances al respecto tanto en el ámbito prudencial 
+(mandato de la Autoridad Bancaria Europea en el artículo 
+501c de la Regulación (EU) 575/2013), como el que resulte 
+del plan de la segunda fase de la revisión posimplantación 
+de las NIIF 9 por parte del IASB en materia de cálculo de 
+pérdidas esperadas, previsto durante 2024.
+Disponibilidad, calidad y precisión de los 
+datos
+Este apartado aborda la obligación de información 
+cualitativa sobre el riesgo medioambiental; en 
+particular en lo relativo a la gestión del riesgo para la 
+cuestión (p)
+Tal y como recoge la EBA en el Report on management and 
+supervision of ESG risks for credit institutions and 
+investment firms, uno de los principales retos a los que se 
+enfrentan las entidades financieras en la integración de los 
+riesgos ESG es la insuficiencia de datos. Por ello, Grupo 
+Santander, junto al resto de la industria, está trabajando en 
+incrementar la granularidad y calidad de los datos ESG 
+necesarios para la gestión, destacando entre otros:
+• La disponibilidad de certificados de eficiencia 
+energética, especialmente en aquellas geografías 
+donde no existe una regulación o requerimiento 
+específico.
+• La obtención y disponibilidad de las emisiones 
+financiadas de los clientes, información que mejorará 
+en Europa con la reciente entrada en vigor de la 
+regulación al respecto (CSRD).
+• La mejora de la granularidad y precisión de la 
+información necesaria para evaluar los riesgos físicos.
+Para la consecución de lo anterior, se está trabajando en las 
+siguientes líneas de trabajo:
+• Robustecer la información interna ESG disponible.
+• Reforzar el proceso de alta de clientes y admisión de 
+riesgos.
+Informe con Relevancia Prudencial junio 2024 Pilar 3
+12 • Complementar la información disponible a través de 
+proveedores externos.
+• Valorar la elaboración de modelos y proxies para poder 
+estimar la información no disponible una vez aplicados 
+las otras tres iniciativas anteriores.
+Canales de transmisión entre riesgos 
+medioambientales con otros riesgos en el 
+marco de gestión
+Este apartado aborda la obligación de información 
+cualitativa sobre el riesgo medioambiental; en 
+particular en lo relativo a la gestión del riesgo para la 
+cuestión (r)
+Debido a la emergencia climática, la disponibilidad de datos 
+y la metodología, los aspectos medioambientales dentro de 
+ESG son un foco de atención en el sector bancario, entre 
+otros. Por este motivo, la siguiente sección se centra más 
+en los factores de riesgo climáticos y medioambientales, 
+los cuales se consideran transversales y susceptibles de 
+tener impacto en las tipologías de riesgo existentes, como 
+crédito, mercado, liquidez,operacional, reputacional y 
+estratégico, principalmente. Incluyen tanto los elementos 
+derivados de los efectos físicos en el cambio climático como 
+los elementos derivados del proceso de transición hacia un 
+modelo de bajas emisiones.
+Consideramos los  riesgos físicos  como los efectos que 
+produce el cambio climático en las actividades económicas, 
+la mano de obra, las comunidades, mercados, activos e 
+inversores. Y los dividimos a su vez en:
+• Agudos: intensificación de los fenómenos 
+meteorológicos extremos, como sequías, huracanes o 
+inundaciones.
+• Crónicos: cambios en los patrones de precipitaciones y 
+extrema variabilidad de los meteorológicos, aumento 
+de las temperaturas medias, olas de calor crónicas o 
+subida del nivel del mar.
+Consideramos los riesgos de transición como los efectos 
+que genera la transición a una economía baja en carbono. 
+Estos incluyen cambios en la legislación, tecnología o 
+tendencias del mercado:
+• Sentimiento de mercado:  puede manifestarse a través 
+de cambios en la oferta y demanda de determinadas 
+materias primas, productos y servicios a medida que se 
+tienen en cuenta los riesgos y oportunidades 
+relacionados con el clima, lo que puede acarrear 
+problemas reputacionales, entre otros.
+• Medidas regulatorias:  como la aplicación de 
+mecanismos de tarificación del carbono para reducir las 
+emisiones de gases de efecto invernadero, la 
+reorientación del uso de la energía hacia fuentes con 
+menores emisiones, la adopción de soluciones de 
+eficiencia energética, el fomento de medidas de 
+eficiencia hídrica y la promoción de prácticas de uso de 
+la tierra más sostenibles.
+• Tecnología: surge de la necesidad de introducir mejoras 
+o innovaciones para apoyar la transición a un sistema 
+económico energéticamente eficiente con menores 
+emisiones de carbono que pueden repercutir 
+significativamente en las empresas debido a que la 
+nueva tecnología desplaza a los sistemas obsoletos y 
+trastorna algunos elementos del sistema económico 
+existente.
+En Santander, analizamos los impactos de los factores 
+climáticos y medioambientales en cada tipología de riesgos 
+teniendo en cuenta diferentes horizontes temporales. A 
+continuación, describimos estos impactos pre-mitigación y 
+los principales avances logrados en materia climática en 
+2023, así como próximos pasos a seguir:
+Informe con Relevancia Prudencial junio 2024 Pilar 3
+13
+ Crédito
+– Crónico
+– Agudo
+– Acción política
+– Opinión de 
+mercado
+– Tecnología
+Medio - Largo 
+plazo
+– Las condiciones meteorológicas extremas 
+provocan una mayor morosidad en los 
+préstamos de particulares y empresas y 
+disminuyen el valor de las garantías. También 
+pueden reducir los ingresos y causar daños en la 
+agricultura, así como elevar las primas y 
+coberturas de los seguros. Asimismo, los 
+cambios en el patrón del viento que merman la 
+producción de energía pueden provocar un 
+aumento de los costes de explotación y 
+obstaculizar la productividad. Esto puede 
+incrementar las amortizaciones y la retirada 
+anticipada de activos debido a los daños 
+materiales y a las ubicaciones de 'alto riesgo'.
+– Si los prestatarios no adaptan sus modelos de 
+negocio a la economía de bajas emisiones de 
+carbono, podría aumentar el riesgo crediticio y, 
+en consecuencia, el riesgo de disminución de los 
+ingresos y de discontinuidad de la actividad 
+empresarial, propiciando un aumento de los 
+impagos o una pérdida de valor de la empresa. 
+– Las inclemencias meteorológicas pueden causar 
+pérdidas económicas significativas, peligros 
+para la población local y daños 
+medioambientales, así como afectar también a 
+la valoración de las garantías.
+– Sentimiento del mercado que influye en la 
+demanda, obsolescencia de los sistemas 
+tecnológicos, preferencias de los clientes, entre 
+otros.
+– Mayores costes de explotación para los clientes 
+intensivos en carbono; obligaciones de 
+información (recopilación de datos), 
+especialmente sobre emisiones (por ejemplo, 
+alcance 3) y la divulgación de información 
+relativa a la taxonomía verde; y nuevas 
+directivas de la UE sobre información financiera 
+derivadas de las medidas gubernamentales. 
+– Análisis de materialidad para identificar los 
+riesgos físicos y de transición de nuestras 
+carteras.
+– Análisis del riesgo de concentración por sector y 
+región en el corto, medio y largo plazo.  
+– Heatmaps que incluyen escenarios ordenados, 
+desordenados y Hot House World hasta 2050.
+– Adopción de medidas mitigantes como políticas, 
+umbrales y seguros para hacer frente a los 
+riesgos y sus impactos.
+– Análisis de escenarios y sensibilidades para 
+prever cambios en los ratings, la PD y la LGD en 
+función del riesgo físico y de transición.
+– Definir métricas de riesgo de crédito para hacer 
+seguimiento y gestionar los factores E&CC en 
+los procesos BAU.
+– Integrar el análisis de los factores E&CC en la 
+evaluación de las operaciones y los clientes y 
+sus ratings.
+– Alertas sobre los límites del apetito de riesgo 
+para la gestión de los sectores relacionados con 
+el clima.
+– Segunda fase del proceso de implementación 
+de The Climate Race (TOM para el riesgo de 
+crédito relacionado con factores climáticos y 
+ambientales), e integración de los factores 
+E&CC en todo el ciclo de crédito para identificar 
+y mitigar los riesgos de transición y físicos.
+– Incluir los factores climáticos en los modelos 
+internos de riesgo físico y de transición, 
+integrando las técnicas de análisis de escenarios 
+en la gestión de riesgos mediante un 
+seguimiento prospectivo por sectores y 
+geografías.
+– Desarrollo de herramientas para hacer 
+seguimiento de los factores E&CC en el sector 
+inmobiliario, teniendo en cuenta los riesgos de 
+actividad por sector y los colaterales.
+Factor de riesgo
+Principales 
+drivers 
+climáticos
+4
+Principal 
+horizonte 
+temporal
+5
+Impactos potenciales de los factores de 
+riesgo climático
+Lo que hacemos para gestionar los riesgos 
+asociados al clima Próximos pasos
+Informe con Relevancia Prudencial Pilar 3 2024
+14
+4
+ Todos los drivers climáticos tienen un efecto en los factores de riesgo aunque en esta tabla solo se han tenido en cuenta los principales.
+5
+ Corto plazo: hasta 1 año. medio plazo: hasta 3 años. largo plazo: más de 5 años. Mercado 
+– Agudo
+– Crónico
+– Opinión del 
+mercado
+Corto-medio plazo
+– Alta volatilidad en los factores de mercado bajo 
+escenarios estresados.
+– Cambios en la percepción del mercado que 
+llevan a mayores spreads de crédito para los 
+negocios en los sectores afectados.
+– Revisiones periódicas de los escenarios de 
+estrés climático y las filiales que los aplican. 
+– Utilización de escenarios de riesgo físico y de 
+transición en los test de estrés.
+– Análisis de la exposición actual a actividades 
+económicas sensibles al clima de las carteras de 
+trading.
+– Continuar mejorando el análisis del impacto 
+material de los factores climáticos en las 
+carteras de negociación para contribuir a los 
+futuros test de estrés sectoriales.
+– Enriquecer nuestro test de estrés y revisar 
+nuevos escenarios para incluir en el ejercicio.
+– Adaptar los ejercicios de estrés a las mejores 
+prácticas del mercado.
+Liquidez
+– Crónico
+– Opinión del 
+mercado
+Corto-medio plazo
+– Impacto del mercado en el valor de los activos 
+líquidos de alta calidad del buffer de liquidez de 
+Santander.
+– Mayor frecuencia de fenómenos 
+meteorológicos extremos que obstaculizan el 
+crecimiento económico de los países más 
+expuestos al cambio climático, lo que provoca 
+un aumento de la deuda soberana y limita el 
+acceso a los mercados de capitales.
+– Salidas de efectivo de empresas que intentan 
+mejorar su reputación en el mercado o resolver 
+problemas con escenarios climáticos.
+– Análisis de escenarios climáticos (cualitativos y 
+cuantitativos) relativo al impacto de los activos 
+líquidos de alta calidad (HQLA) y la financiación 
+de las empresas expuestas.
+– Análisis del incremento de flujos de salida 
+debido a cambios en la percepción del mercado 
+sobre las empresas que desarrollan actividades 
+sensibles al clima.
+– Enriquecer nuestro test de estrés y revisar 
+nuevos escenarios para incluir en el ejercicio.
+– Adaptar los ejercicios de estrés a las mejores 
+prácticas del mercado incluyendo nuevos 
+escenarios de liquidez para medir su impacto.
+Operacional
+– Agudo
+– Acción política
+– Opinión del 
+mercado
+Medio-largo plazo
+– Los fenómenos meteorológicos severos pueden 
+causar daños a nuestros activos, incluidas las 
+redes de sucursales, oficinas y centros de datos. 
+También pueden afectar a la continuidad de 
+nuestra actividad, incluyendo nuestros procesos 
+y empleados.
+–  Los factores relacionados con el clima también 
+pueden provocar pérdidas por riesgo operativo 
+derivadas de litigios, por ejemplo si se considera 
+que un banco no representa fielmente las 
+prácticas de sostenibilidad.
+– Autoevaluación de riesgos y controles de riesgo 
+operacional que incluyen riesgos relacionados 
+con los factores ESG para evaluar nuestra 
+exposición.
+– Análisis de escenarios de riesgo operacional 
+obligatorios que abarquen eventos de riesgo 
+físico y de transición. 
+– Agregación de una etiqueta ESG en la base de 
+datos de eventos de riesgo operacional para 
+clasificar incidentes y pérdidas relacionadas con 
+el clima y el medioambiente.
+– Evaluación de las amenazas climáticas en los 
+escenarios de continuidad de negocio.
+– Mejorar el reporting de los riesgos 
+operacionales relativos a los factores de riesgo 
+relacionados con el clima. 
+– Actualizar la documentación y proporcionar 
+formación relativa a la integración de los 
+factores ESG en la gestión del riesgo 
+operacional.
+Factor de riesgo
+Principales 
+drivers 
+climáticos
+4
+Principal 
+horizonte 
+temporal
+5
+Impactos potenciales de los factores de 
+riesgo climático
+Lo que hacemos para gestionar los riesgos 
+asociados al clima Próximos pasos
+Informe con Relevancia Prudencial Pilar 3 2024
+15
+ Reputacional
+– Crónico
+– Agudo
+– Acción política
+– Opinión del 
+mercado
+Corto-medio-largo 
+plazo
+– Clientes, inversores y otras partes interesadas 
+que perciban que los bancos no están 
+haciendo lo suficiente para cumplir sus 
+objetivos de bajas emisiones de carbono, 
+actúan en contra de sus políticas o sus propios 
+compromisos públicos pueden suponer un 
+riesgo para su reputación.
+– Tergiversar o resultar engañoso para los 
+clientes, inversores u otras partes 
+interesadas, en relación con las declaraciones, 
+acciones, comunicaciones, políticas o 
+características de sostenibilidad de los 
+productos o prácticas (greenwashing) de una 
+entidad.
+– Actualización de las políticas y 
+procedimientos con factores climáticos y 
+medioambientales.
+– Los comités de crédito a empresas consideran 
+el riesgo reputacional cuando evalúan 
+transacciones sensibles que implican riesgos 
+relacionados con el clima y el 
+medioambiente.
+– Foros corporativos programados para revisar 
+cuestiones reputacionales (incluyendo 
+asuntos climáticos), en los que participan las 
+áreas jurídica, de banca responsable, de 
+relaciones con los inversores, de riesgos, 
+entre otras. 
+– Medidas proactivas para apoyar la transición 
+ecológica y la descarbonización de las 
+empresas.
+– Evaluación de la materialidad para valorar el 
+riesgo reputacional relacionado con el clima y 
+el medioambiente.
+– Implicación continua de la función de riesgo 
+reputacional con otras áreas para abordar los 
+impactos reputacionales.
+– Evaluación de la materialidad para valorar el 
+riesgo reputacional relacionado con el clima y el 
+medioambiente.
+– Metodología para cuantificar el impacto 
+reputacional de los factores climáticos y 
+medioambientales.
+– Establecimiento de procesos de control 
+ambiental para prevenir y gestionar el 
+greenwashing.
+– Fortalecimiento del entorno de control en el 
+greenwashing y desarrollo de formación 
+específica
+Estratégico
+– Agudo
+– Crónico
+– Opinión del 
+mercado
+– Acción política
+– Tecnología
+Corto-medio-largo 
+plazo
+– Nuestra estrategia podría verse afectada si no 
+logramos alcanzar nuestros objetivos climáticos 
+y medioambientales, incluidos los relacionados 
+con las actividades que financiamos y los 
+relativos a nuestro propio funcionamiento.
+– Revisar que los objetivos ESG estén 
+integrados en los ejercicios de planificación 
+estratégica del Grupo.
+– Monitorización del proyecto estratégico del 
+Grupo relativo al cambio climático incluyendo 
+KPI net zero.
+– Identificación de riesgos emergentes, con un 
+evento de riesgo ESG y análisis de cómo los 
+escenarios estresados de baja probabilidad 
+repercuten en los objetivos estratégicos, para 
+elaborar los planes de acción adecuados. 
+– Seguimiento de las propuestas relacionadas 
+con ESG para el foro corporativo de gobierno 
+de productos (CGPF) y el foro de Inversiones.
+– Revisión de los factores ESG y los KPI del 
+modelo de negocio.
+– Seguir monitorizando las amenazas climáticas y 
+medioambientales en el ejercicio de 
+identificación de riesgos emergentes. 
+– Actualizar periódicamente los KPI en materia de 
+ESG para su alineamiento con la estrategia del 
+Grupo.
+– Continuar revisando los factores ESG en relación 
+con el desempeño del modelo de negocio.
+Factor de riesgo
+Principales 
+drivers 
+climáticos
+4
+Principal 
+horizonte 
+temporal
+5
+Impactos potenciales de los factores de 
+riesgo climático
+Lo que hacemos para gestionar los riesgos 
+asociados al clima Próximos pasos
+Utilizamos diversas herramientas de evaluación que nos ayudan a analizar los potenciales impactos de los factores climáticos y medioambientales en nuestras carteras como: las evaluaciones de 
+materialidad, los heatmaps cuantitativos y cualitativos, y el análisis de escenarios, entre otras.
+Informe con Relevancia Prudencial Pilar 3 2024
+16 1.2. Riesgo social
+1.2.1. Estrategia de negocio y procesos 
+Esta sección cubre el requerimiento de información 
+cualitativa sobre riesgos sociales, en concreto, trata la 
+estrategia de negocio y procesos, para el apartado (a) 
+Integración de factores sociales en la 
+estrategia del negocio 
+Según el informe anual, la estrategia del Grupo se centra en 
+los temas ESG que son materiales para Santander. Nuestra 
+ambición social es promover el crecimiento inclusivo.
+En cuanto a los temas sociales, hemos identificado los 
+siguientes aspectos en los que seguimos trabajando:
+• Promover el bienestar de los empleados y la igualdad 
+de trato y oportunidades para todos:  garantizar la 
+equidad y el respeto entre empleados en un entorno 
+inclusivo, con tolerancia cero al acoso y la 
+discriminación, asegurando un entorno de seguridad 
+psicológica. 
+• Apoyar la inclusión y la salud financiera, promoviendo 
+el acceso a los productos y servicios e impulsando la 
+educación financiera: desarrollar y ofrecer productos y 
+servicios que promuevan el acceso a los servicios 
+financieros básicos, y entre otros, a una financiación que 
+satisfaga sus necesidades de crédito.
+• Fomentar la transparencia de la información y la 
+privacidad de los datos del cliente : ayudar a nuestros 
+grupos de interés  a afrontar los posibles retos que 
+puedan surgir (por ejemplo, el aumento del coste de la 
+vida), ofreciéndoles productos y soluciones a medida, 
+incluida la educación financiera.
+• Apoyar la educación, la empleabilidad y el 
+emprendimiento: Santander Universidades impulsa la 
+educación y las oportunidades de empleabilidad y 
+emprendimiento; conectando startups y pymes, 
+clientes, formación y otros recursos. Además, 
+apoyamos el bienestar de la comunidad y mejoramos la 
+vida de las personas en riesgo de exclusión a través de 
+nuestros programas de apoyo en la comunidad. 
+Nos hemos comprometido a invertir 400 millones de euros 
+entre 2023 y 2026 para fomentar la educación, la 
+empleabilidad y el emprendimiento.
+Contamos con un Plan Estratégico de Diversidad, Igualdad e 
+Inclusión (2020-2025) para promover un entorno de trabajo 
+inclusivo en el que cada persona pueda ser ella misma.
+Seguimos rigurosos estándares en las contrataciones, 
+promociones, planificación de la sucesión y gestión del 
+talento con el fin de fomentar la diversidad. Asimismo, 
+contamos con formación en sesgos inconscientes, 
+mentoring, networking y otras acciones para crear un 
+entorno más inclusivo. 
+Por otro lado, nuestra taxonomía interna, el SFICS, es 
+nuestra guía en materia de financiación verde y social. Por 
+lo que respecta a esta última, nuestros criterios de 
+elegibilidad social describen las actividades empresariales 
+que abordan o mitigan problemas sociales específicos, o 
+que tratan de lograr resultados sociales positivos.
+Actualmente, Grupo Santander aborda 9 sectores: 
+educación, sanidad, transporte, energía, agua y gestión de 
+residuos, inmobiliaria, finanzas y seguros, informática y 
+comunicaciones, y entidades sin ánimo de lucro. Todas ellas 
+tienen una "métrica de impacto" que mide su contribución 
+social y una "población objetivo" elegible para esta 
+financiación social.
+Adicionalmente, en la realización de los ejercicios de 
+planificación financiera se incorpora la ambición y pilares 
+estratégicos del Grupo en el ámbito social (por ejemplo, la 
+contribución a la sociedad/comunidad, inclusión 
+financiera...). En particular, los riesgos sociales se tienen en 
+cuenta indirectamente en nuestros ejercicios estratégicos 
+(por ejemplo, ICAAP) mediante la incorporación de factores 
+sociales como la evolución de la tecnología, el marco 
+político o el sentimiento del mercado en los escenarios 
+climáticos que se utilizan.
+A continuación, algunos ejemplos: las proyecciones del 
+valor añadido bruto afectan a nivel sectorial de cada país en 
+el valor de los bienes y servicios, la productividad, los 
+procesos industriales y de fabricación; el cambio en la 
+demanda también se ve afectado en cada escenario, ya que 
+determina los costes y la rentabilidad de la producción, así 
+como la demanda de los consumidores y los productos; el 
+cambio tecnológico también se aplica para afectar a la 
+demanda de los sectores debido al crecimiento de las 
+tecnologías bajas en carbono y al sentimiento del mercado.
+Objetivos, metas y límites para evaluar y 
+abordar el riesgo social 
+Esta sección cubre el requerimiento de información 
+cualitativa sobre riesgos sociales, en concreto, trata la 
+estrategia y procesos de la empresa, para el apartado 
+(b) 
+Nuestras actividades contribuyen a varios United Nations’ 
+Sustainable Development Goals (SDG) y respaldan el 
+Acuerdo de París, así como otras iniciativas internacionales 
+y locales como los UN Women's Empowerment Principles.
+Analizamos la contribución de nuestra agenda a los SDGs y 
+determinamos los objetivos más relevantes para el negocio, 
+los compromisos y la estrategia de Banco Santander. Para 
+más información, consulte el catálogo "Banco Santander y 
+los SDGs" en nuestra web corporativa.
+Aumentamos dos objetivos ESG en nuestro Investor Day: el 
+35% de los puestos de dirección sénior los ocuparán 
+mujeres de aquí 2025 e incluir financieramente a 5 millones 
+de personas entre 2023 y 2025.
+Informe con Relevancia Prudencial Pilar 3 2024
+17
+ En 2023, se ha consolidado la gestión de clientes 
+vulnerables y la prevención del sobre endeudamiento, 
+elevando las guías de buenas prácticas a política para su 
+implementación en todas las filiales, asegurando un 
+enfoque coherente en todo el Grupo para la capacitación de 
+los empleados, la identificación, el escalado de casos y 
+diseño de productos y servicios, la actividad de recobro, la 
+gestión del fraude, o los servicios a personas mayores y/o 
+personas con discapacidad. 
+Siguiendo los  Principios de Banca Responsable de las 
+Naciones Unidas, hemos establecido objetivos sociales en 
+aquellas áreas en las que tenemos un mayor impacto 
+(adicional a los objetivos medioambientales recogidos en el 
+apartado Riesgo Medioambiental):
+6
+Políticas y procedimientos para gestionar 
+los riesgos sociales 
+Esta sección cubre el requerimiento de información 
+cualitativa sobre riesgos sociales, en concreto, el punto 
+sobre estrategia y procesos empresariales, para el 
+apartado (c)
+Grupo Santander vela por la correcta integración de los 
+criterios éticos en el desarrollo de su actividad. 
+Para ello, cuenta con diversas políticas, códigos y normativa 
+interna, que se inspiran en las mejores prácticas, convenios 
+y protocolos internacionales, códigos de conducta y guías 
+internacionales aplicables en cada materia.
+El cumplimiento de estas políticas constituye un proceso de 
+mejora continua. Anualmente Santander lleva a cabo una 
+revisión de sus políticas corporativas de sostenibilidad, de 
+aplicación a todo el Grupo. 
+Entre las políticas más relevantes relativas a aspectos 
+sociales, se recogen las siguientes: 
+• Política de banca responsable y sostenibilidad
+Define los principios generales de actuación de Santander 
+en Banca Responsable y Sostenibilidad, así como los 
+objetivos que, de forma voluntaria, el Grupo adquiere con 
+sus principales grupos de interés incluida la posición de 
+Santander en la protección de los derechos humanos. Esta 
+política recoge las principales recomendaciones del Código 
+de Buen Gobierno de la CNMV en este ámbito.
+La política de banca responsable y sostenibilidad recoge los 
+principales procesos para asegurar la gestión y seguimiento 
+de los objetivos en esta materia.
+La política aprobada por el consejo de administración 
+fusiona la política general de sostenibilidad y la política de 
+derechos humanos, para una mejor integración en los 
+procesos existentes de los objetivos recogidos en ambas 
+políticas. Además, facilita la aplicación y entendimiento en 
+un solo documento más sencillo y operativo.
+• Política de riesgo medioambiental, social y climático
+Esta política establece los criterios del Grupo Santander en 
+relación con la inversión en entidades, la prestación de 
+productos o servicios financieros en los sectores de petróleo 
+y gas, generación eléctrica y minería y metalurgia, así como 
+los derivados de negocios de soft commodities . La política 
+establece cuales son las actividades prohibidas y las que 
+requieren especial atención desde el punto de vista 
+ambiental, social y cambio climático. Esta política sustituye 
+a las anteriores políticas de energía, minería y metalurgia y 
+soft commodities.
+• Política de donaciones
+Esta política tiene como objetivo establecer los criterios que 
+regulan el tratamiento de las donaciones, así como el 
+proceso para la realización de las mismas (propuesta, 
+valoración, decisión, control y seguimiento) que el Grupo 
+Santander considere realizar con fines sociales.
+• Principios de conducta responsable para proveedores
+Este documento establece los principios mínimos de 
+comportamiento en materia de conducta ética, social y 
+medioambiental que Banco Santander espera de todos sus 
+proveedores, y que están alineados con los diez principios 
+del Pacto Mundial.
+Informe con Relevancia Prudencial Pilar 3 2024
+18
+6
+ A. Las posiciones de nivel directivo senior representan el 1% de la plantilla total.
+B. La equidad salarial de género se calcula comparando salarios entre empleados que desempeñan la misma función o posición y se encuentran al mismo nivel. . El dato a 
+cierre de año es 0,44%. Una vez cumplido el objetivo marcado (con dos años de antelación), el Grupo asume el objetivo de mantener a futuro un ratio de equidad salarial 
+que esté en línea con las mejores prácticas del mercado
+C. Personas sin acceso o con acceso restringido a los servicios bancarios o vulnerables financieramente a las que se les da acceso a servicios financieros, financiación y 
+educación financiera para que mejoren sus conocimientos y capacidad de resiliencia mediante la educación financiera.
+D. Los 5m de personas adicionales incluyen personas no bancarizadas, insuficientemente bancarizadas y financieramente vulnerables que reciben soluciones financieras 
+personalizadas de acceso y financiación.
+E. Educación, empleo y emprendimiento. 1.2.2. Gobierno
+Responsabilidades del órgano de dirección 
+para establecer el marco de riesgo, supervisar 
+y gestionar la aplicación de los objetivos, la 
+estrategia y las políticas en el ámbito de 
+gestión de los riesgos sociales 
+Esta sección cubre el requerimiento de información 
+cualitativa sobre riesgos sociales, en concreto, trata el 
+gobierno, para los apartados (d), (e) y (f)
+El consejo de administración aprueba y supervisa la 
+aplicación de las políticas y estrategias relacionadas con la 
+cultura y los valores corporativos, las prácticas 
+responsables y la sostenibilidad. También vela por que 
+todos los empleados del Grupo conozcan los códigos de 
+conducta y actúen de forma ética, y por el cumplimiento de 
+las leyes, costumbres y buenas prácticas de los sectores y 
+países en los que operamos. Esta información está 
+publicada en el informe anual. 
+Seguimos reforzando el equipo multidisciplinar, ya 
+anunciado en el reporte anterior, para ayudar a mejorar la 
+identificación, corrección y mitigación de los riesgos 
+sociales y medioambientales (incluidos los derechos 
+humanos), analizar la implicación del cliente por medio de 
+su relación con nosotros, detectar deficiencias y, por último, 
+implementar planes de acción.
+En la gestión de los objetivos y estrategias sociales se 
+contemplan, entre otras, las siguientes iniciativas:
+• Actividades dirigidas a la comunidad y la sociedad: 
+más de 174 millones de euros en inversión en la 
+comunidad en 2023
+7
+.
+◦ Conducta y comportamiento ético:  desarrollamos 
+nuestra actividad cumpliendo con los más altos 
+estándares de conducta y comportamiento ético.
+◦ Apoyo a la educación superior y otras iniciativas 
+locales: apoyamos a las comunidades en las que 
+operamos, con especial atención a la educación 
+superior, a través de nuestro programa Santander 
+Universidades. Promovemos la empleabilidad y el 
+emprendimiento con iniciativas como Santander 
+Open Academy o Santander X.
+◦ Inclusión y empoderamiento financiero:  ayudamos 
+a las personas a acceder al sistema financiero, a 
+crear y desarrollar microempresas y a aprender a 
+gestionar sus finanzas. En línea con compromiso del 
+Grupo de reducir el estigma en la prestación de 
+servicios financieros a clientes vulnerables
+• Relaciones con los empleados y estándares laborales: 
+queremos ser un empleador de referencia a través de 
+una estrategia que se basa en tres pilares:
+◦ Situar al empleado en el centro de todo lo que 
+hacemos; trabajar para contar con la mejor cultura y 
+ofrecer una gran experiencia a nuestros empleados 
+a través de la diversidad, equidad e inclusión, 
+cultura, iniciativas de salud y bienestar y la escucha 
+a los empleados para poder mejorar continuamente.
+◦ Contar con el talento y las habilidades adecuadas  
+para hacer posible la transformación de la 
+organización; atraer e implicar a los mejores 
+talentos, con un fuerte enfoque en el desarrollo de 
+los empleados; así como tener una propuesta de 
+valor para los empleados.
+◦ Impulsar el cambio en la empresa;  dar forma a una 
+organización más dinámica que esté preparada para 
+afrontar el futuro con un impacto positivo en la 
+sociedad; tener el mejor diseño organizativo; utilizar 
+nuevas formas de trabajar para generar valor; y 
+mantener conversaciones significativas con 
+nuestros grupos de interés.
+• Protección del cliente y responsabilidad del producto 
+◦ Modelo de gestión de riesgo de conducta con 
+clientes: ser responsable implica ofrecer a nuestros 
+clientes productos y servicios de un modo sencillo, 
+personal y justo (SPJ), más allá de los mínimos 
+legales. La función de gobierno de productos y 
+protección al consumidor supervisa la aplicación de 
+nuestro modelo de gestión de riesgos de conducta 
+con clientes. El modelo aborda las fases de diseño, 
+venta, posventa y prestación de servicios. 
+◦ Gobierno de producto: la política de aprobación de 
+productos y servicios, apoyada en los órganos 
+locales de decisión y del foro corporativo de 
+gobierno de productos, contribuye a que los 
+productos y servicios se diseñen con las 
+características idóneas para satisfacer las 
+necesidades del público objetivo, a un precio 
+razonable y de forma transparente, y que cuenten 
+con procesos y controles durante toda su vida 
+considerando los intereses de nuestros clientes.
+• Derechos humanos: nuestra política de banca 
+responsable y sostenibilidad aprobada por el consejo de 
+administración refleja los objetivos en el ámbito ESG del 
+banco, incluida la protección de los derechos humanos 
+de empleados, clientes, proveedores y comunidad. 
+◦ Llevamos a cabo iniciativas para combatir la 
+discriminación, el trabajo forzoso, la explotación 
+infantil y afrentas a la dignidad de las personas, así 
+como para preservar la libertad de asociación y la 
+negociación colectiva, la salud de nuestros 
+empleados y el empleo digno.
+◦ Protegemos los derechos humanos de nuestros 
+clientes mediante prácticas empresariales 
+responsables y la protección de sus datos.
+◦ Mejoramos nuestros cuestionarios y análisis 
+ambientales, sociales y de derechos humanos a 
+proveedores para garantizar el respeto de los 
+derechos humanos a lo largo de nuestra cadena de 
+suministro.
+Informe con Relevancia Prudencial Pilar 3 2024
+19
+7
+ Incluye las aportaciones sociales de las fundaciones del Grupo. Adicionalmente, Santander ha realizado en 2023 una donación a la fundación por un total de 6.617.008 
+acciones de Banco Santander como apoyo financiero para que esta pudiera sufragar (al menos parcialmente) los gastos derivados del cumplimiento de sus fines 
+fundacionales con la rentabilidad de las acciones. Para más detalles véase nota 34. 'Instrumentos de patrimonio emitidos distintos del capital y acciones propias' de los 
+estados financieros consolidados. ◦ Estamos mejorando los cuestionarios sobre 
+derechos humanos que incluyen los riesgos en la 
+cadena de suministro a los clientes en el marco de la 
+política de gestión de riesgos ESCC. 
+◦ Evaluamos el impacto de los derechos humanos en 
+las operaciones incluidas en el ámbito de aplicación 
+de los Principios de Ecuador.
+Según el informe anual,  el consejo de administración , 
+supervisa nuestra actividad relacionada con el cambio 
+climático y la transición verde. En 2023, estos temas fueron 
+debatidos por el Consejo en siete de sus reuniones, 
+incluidos los factores sociales en la revisión de la Política 
+ESCC y los informes de divulgación. Además, las unidades 
+de negocio y los negocios globales informan anualmente al 
+consejo sobre sus principales iniciativas en materia ESG.
+Según el reglamento del consejo, la CBRSC estará formada 
+por un mínimo de tres y un máximo de nueve consejeros, 
+todos externos o no ejecutivos, con una mayoritaria 
+representación de consejeros independientes. Para cumplir 
+con su mandato, una de las funciones que tiene es asesorar 
+al consejo de administración en el diseño de la cultura y de 
+los valores corporativos, incluyendo la estrategia y políticas 
+de negocio responsable y sostenibilidad y, en particular, en 
+materia medioambiental y social, realizando el 
+seguimiento, supervisión y evaluación de las mismas y 
+considerando propuestas al consejo de administración 
+sobre cambios recomendables a las indicadas políticas, 
+todo ello con el fin de que cumplan su misión de promover 
+el interés social y tengan en cuenta, según corresponda, los 
+legítimos intereses de los restantes grupos de interés.
+En 2023, la CBRSC celebró cinco reuniones. Debatió y revisó 
+políticas ESG, incluida la revisión de las políticas ESCC y la 
+política de cultura del Grupo. La CBRSC ha revisado nuestra 
+agenda social, que incluye la inclusión financiera; la salud 
+financiera; los negocios con impacto social y la 
+responsabilidad social corporativa o las actividades 
+filantrópicas. Así mismo, internamente existen equipos en 
+las divisiones de Banca Responsable, Intervención General y 
+Riesgos los cuales se dedican a la identificación, evaluación, 
+seguimiento y reporte de aspectos sociales, entre ellos 
+posibles riesgos derivados de los mismos. 
+La información sobre la asistencia de los miembros de  la 
+comisión a esas reuniones y sobre el tiempo medio 
+estimado dedicado por ellos a preparar y participar en las 
+mismas se proporciona en el informe anual. 
+El siguiente gráfico muestra la asignación aproximada de 
+tiempo del comité a cada uno de los criterios ESG en 2023.
+Alineamiento de la política de remuneración 
+con los objetivos de riesgo social
+Esta sección cubre el requerimiento de información 
+cualitativa sobre riesgos sociales, en concreto, trata el 
+gobierno, el apartado (g) 
+Para alinear la política de remuneración con los objetivos de 
+riesgo social de la entidad, Santander aplica el principio de 
+igualdad salarial en la política corporativa de retribución de 
+Grupo Santander, tanto para consejeros ejecutivos como 
+para cualquier empleado, que no permite ningún tipo de 
+discriminación distinta de las derivadas de la evaluación de 
+los resultados y de los comportamientos corporativos, y 
+promueve una gestión salarial igualitaria en cuanto a 
+género.
+Asimismo, el sistema de remuneración aplicable a todos los 
+empleados de Santander retribuye el valor que los 
+empleados aportan sobre la base de unos principios 
+comunes, como los siguientes:
+• Meritocracia: se garantiza la no discriminación por 
+razones de sexo, edad, cultura, religión ni etnia a la hora 
+de aplicar las prácticas y políticas retributivas.
+• Coherencia: remuneración coherente con el nivel de 
+responsabilidad, liderazgo y desempeño dentro de la 
+organización, favoreciendo la retención de 
+profesionales clave y la atracción del mejor talento.
+• Responsabilidad social: la cuantía de la retribución de 
+los empleados no podrá ser inferior al salario mínimo 
+fijado legalmente ni al salario mínimo vital o salario 
+digno (living wage)  del país en el que cada empleado 
+preste sus servicios. Además, con el fin de resaltar la 
+responsabilidad social del negocio en la retribución, 
+entre los objetivos de Banca Responsable del Grupo que 
+se vinculan a la retribución de los empleados se incluye 
+la métrica de inclusión financiera. 
+Asimismo, desde el año 2020 se incluyen aspectos ESG en 
+la retribución variable anual basados en el progreso en 
+Banca Responsable.
+Como previamente se ha mencionado en la sección 10.1.2 
+Gobierno, el progreso en ESG se mide a través de cuatro 
+líneas de acción y métricas asociadas: (1) proporción de 
+mujeres en posiciones directivas sénior, (2) inclusión 
+financiera, (3) inversión socialmente responsable y (4) 
+apoyar la transición. 
+En cuanto a los aspectos sociales, estos objetivos abarcan:
+• Mujeres en puestos directivos sénior al cierre del 
+ejercicio 2026
+% de mujeres en puestos directivos 
+sénior 
+B 
+Coeficiente
+≥ 37 % 1,25
+≥ 36% pero < 37 % 1 – 1,25
+A
+≥ 34% % pero < 36% 0 – 1
+A
+< 34% 0
+A. Incremento proporcional del coeficiente en función de su posición dentro de 
+esta línea de la escala.
+B. Los directivos incluidos representan aproximadamente el 1% de la plantilla 
+total.
+Informe con Relevancia Prudencial Pilar 3 2024
+20 • Inclusión financiera entre 2024 y 2026
+Inclusión financiera 
+B 
+(millones) Coeficiente
+≥ 6,3 1,25
+≥ 5,3 pero < 6,3 1 – 1,25
+A
+≥ 3,5 pero < 5,3 0 – 1
+A
+< 3,5 0
+A. Incremento proporcional del coeficiente en función de su posición dentro de 
+esta línea de la escala.
+B.  Número de personas no bancarizadas, sub-bancarizadas, en dificultades 
+financieras o con dificultades para acceder a créditos, a quienes 
+proporcionamos soluciones de acceso y financiación a medida, con el objetivo 
+de satisfacer las necesidades locales de inclusión financiera de forma 
+recurrente, completa, asequible y eficaz.
+Más detalle en la sección 6.4 ' Política de remuneraciones 
+de los consejeros para los ejercicios 2024, 2025 y 2026'  del 
+informe anual.
+Acceder al Informe Anual 2023 en la web de Grupo 
+Santander
+1.2.3. Gestión de riesgos
+Esta sección cubre el requerimiento de información 
+cualitativa sobre riesgos sociales, en concreto, trata la 
+gestión de riesgos, el apartado (h)
+Estándares internacionales en los que se basa 
+el marco de gestión de riesgos sociales  
+Nuestro marco de gestión de los riesgos sociales se inspira 
+en los principios y estándares internacionales del sector. 
+Así, las cuatro políticas tratadas anteriormente en el 
+apartado "Políticas y procedimientos para gestionar los 
+riesgos sociales", se han establecido de acuerdo con los 
+siguientes estándares internacionales:
+• La política de banca responsable y de sostenibilidad se 
+basa en estándares como los acuerdos alcanzados en la 
+cumbre COP21 de 2015 sobre el cambio climático en 
+París, la lista del Patrimonio Mundial de la UNESCO, los 
+Principios Rectores de las Naciones Unidas sobre las 
+Empresas y los Derechos Humanos de 2011,  la 
+Declaración Universal de Derechos Humanos, las 
+Convenciones fundamentales de la Organización 
+Internacional del Trabajo, o Principios Rectores sobre 
+las Empresas y los Derechos Humanos de Naciones 
+Unidas , entre otros.
+• Nuestra política de gestión de riesgo socioambiental y  
+de cambio climático  sigue los Principios del Ecuador, 
+los estándares para el desempeño social y 
+medioambiental y las notas explicativas de la 
+Corporación Financiera Internacional (IFC), el Pacto 
+Mundial de las Naciones Unidas, la Declaración 
+Universal de Derechos Humanos, la Declaración de la 
+Organización Internacional del Trabajo, la Convención 
+sobre los Derechos del Niño, la Declaración de Río sobre 
+el Medio Ambiente y la Convención de Naciones Unidas 
+contra la Corrupción.
+• La política de donaciones, establece que las donaciones 
+que se realicen deberán atender, entre otras 
+finalidades, a la defensa de los derechos humanos 
+proclamados por la Declaración Universal de los 
+Derechos Humanos de la ONU.
+• Los principios de conducta responsable para 
+proveedores: Banco Santander espera que sus 
+proveedores trabajen para apoyar y respetar la 
+protección de los derechos humanos de acuerdo con la 
+Declaración Universal de los Derechos Humanos de las 
+Naciones Unidas, los Convenios Fundamentales de la 
+Organización Internacional del Trabajo (OTI) y los 
+Principios Rectores sobre Empresas y Derechos 
+Humanos de Naciones Unidas.
+Además, el  SFICS, en los aspectos relativos a riesgo social, 
+se apoya en directrices, normas y principios internacionales 
+del sector, como los social and green bond principles de 
+ICMA, principios de LMA o el UNEP FI framework entre 
+otros.
+Integración de los factores sociales en el marco 
+de riesgos: gestión, fijación de límites, 
+herramientas y relación con otros riesgos
+Esta sección cubre el requerimiento de información 
+cualitativa sobre riesgos sociales, en concreto, trata la 
+gestión de riesgos, los apartados (i), (j), (k), (l) y (m). 
+La integración de los factores sociales en el marco de 
+riesgos se puede resumir en los siguientes aspectos:
+• Como se expone en el c limate finance report , dentro de 
+nuestro proceso de admisión de crédito, la primera línea 
+de defensa lleva a cabo la debida diligencia 
+completando una serie de cuestionarios ad-hoc. La 
+evaluación del riesgo reputacional se incluye también 
+en el proceso de decisión. Por otro lado, todas las 
+operaciones de project finance  en SCIB deben ser 
+evaluadas de acuerdo a los Principios de Ecuador.
+A este respecto, y según se indica en la política de 
+riesgos ESCC, los cuestionarios que se evalúan en el alta 
+de los clientes incluyen el análisis de las 
+consideraciones éticas e inclusivas (teniendo en cuenta, 
+entre otras cosas, acciones y políticas sobre la no 
+discriminación en el trabajo, condiciones de trabajo, 
+poblaciones que requieran especial atención, derechos 
+humanos, etc.). Según el informe anual, en 2023 se ha 
+puesto en marcha una formación de sensibilización 
+global sobre el trato a los clientes vulnerables.
+• Como se menciona en la plantilla de riesgos 
+medioambientales, nuestra política de gestión de 
+riesgos ESCC, que revisamos anualmente, define los 
+criterios relativos a la inversión en entidades y 
+prestación de productos y servicios financieros a los 
+clientes de los sectores de petróleo y gas, generación y 
+distribución de electricidad, y minería y metalurgia, así 
+como los derivados de negocios con materias primas 
+agrícolas, prestando especial atención a la financiación 
+de clientes minoristas con actividades agrícolas y 
+cárnicas en el Amazonas. 
+Informe con Relevancia Prudencial Pilar 3 2024
+21
+ • Los clientes de los sectores aplicables
+8
+ son analizados a 
+través de un cuestionario que es cumplimentado por el 
+gestor financiero y que, posteriormente, un equipo de 
+analistas revisa para realizar la evaluación global de los 
+riesgos ESCC. 
+• El departamento de riesgos ESCC y el departamento de 
+cumplimiento realizan una diligencia más exhaustiva de 
+aquellos casos en los que se hayan detectado alertas. El 
+resultado de estos análisis (y su impacto en otros 
+riesgos, como el de crédito) es elevado a los comités de 
+aprobación de riesgos del Banco y se consideran para la 
+toma de decisiones.
+En cuanto a este último punto, el objetivo de este 
+criterio es añadir un componente social a la dimensión 
+medioambiental, de modo que la financiación 
+potencialmente verde a los clientes también debe estar 
+alineada con:
+◦ Líneas directrices de la OCDE para empresas 
+multinacionales
+◦ Declaración de la OIT relativa a los principios y 
+derechos fundamentales en el trabajo
+◦ Declaración universal de los derechos humanos
+◦ Principios rectores de las Naciones Unidas sobre las 
+empresas y los derechos humanos
+• Como se indica en nuestra política de gestión de riesgos 
+de ESCC, estamos comprometidos con las inversiones 
+responsables que se alinean con nuestros objetivos de 
+sostenibilidad y el apoyo al Acuerdo de París. Por lo 
+tanto, no invertiremos ni proporcionaremos productos o 
+servicios financieros a proyectos que no cumplan 
+nuestras normas de responsabilidad social, incluidos los 
+proyectos que requieren el consentimiento previo, libre 
+e informado en virtud de la Norma de Desempeño 7 de 
+la IFC - Pueblos indígenas. Dichos proyectos deben 
+demostrar su adhesión a la Norma de Desempeño 7 de 
+la IFC y contar con un plan creíble para lograr su 
+cumplimiento.
+Para las actividades que requieren una atención 
+especial, el Grupo ha decidido realizar un análisis 
+detallado. Estas actividades proceden de clientes cuyas 
+actividades empresariales implican el reasentamiento 
+de pueblos indígenas y/u otros grupos vulnerables.
+• Incorporar el marco de cumplimiento antisoborno y 
+corrupción (ABC, por sus siglas en inglés) del Grupo 
+siguió siendo una prioridad en 2023, con un alto 
+compromiso de funciones clave en el Grupo expuestas a 
+riesgos ABC elevados, como marketing y patrocinios, 
+gestión de proveedores y recursos humanos. La 
+estrategia de formación continuó combinando 
+formación de nivel básico con una formación más 
+enfocada y personalizada para equipos específicos. A lo 
+largo de 2023, se realizaron, además, sesiones de 
+formación técnica sobre cumplimiento de sanciones, 
+talleres de sensibilización sobre los riesgos ABC con el 
+personal de adquisiciones y formación al consejo.
+• Dentro de las herramientas para integrar los factores 
+sociales, escuchamos a nuestros empleados a través de 
+canales de comunicación directa y encuestas. 
+Escuchamos a nuestros clientes a través de plataformas 
+interactivas y encuestas. Identificamos y analizamos los 
+riesgos y oportunidades de nuestro negocio, para 
+evaluar nuestro impacto en el medioambiente y la 
+sociedad y crear valor. Y respondemos a las demandas 
+de los principales analistas, inversores e índices ESG. 
+Cumplimos con la regulación y nos mantenemos al día 
+en cuanto a mejores prácticas. Participamos en 
+consultas con autoridades, asociaciones sectoriales y 
+otras organizaciones que influyen en el diseño de 
+políticas sobre el desarrollo sostenible. 
+• Adicionalmente, en 2023 el comité de remuneraciones 
+continuó priorizando la vigilancia de la medición de la 
+brecha salarial en todo el Grupo y su evolución con 
+respecto a los objetivos fijados; y revisó que la 
+metodología para calcular las métricas de igualdad de 
+género era precisa y que los planes de acción 
+efectivamente reducen la brecha salarial tanto en el 
+Grupo, como en las filiales.
+• Como se menciona en la sección 1.2.1. Estrategia y 
+procesos empresariales, los riesgos sociales se incluyen 
+indirectamente en los ejercicios de pruebas de 
+resistencia del Grupo, tanto en la medición del riesgo de 
+transición y físico en nuestras carteras, como a través de 
+los supuestos y desencadenantes utilizados para 
+desarrollar nuestros escenarios para los procesos 
+financieros estratégicos del Grupo (por ejemplo, ICAAP), 
+incluidos los factores sociales, como la productividad, el 
+cambio de la mano de obra, el cambio tecnológico, el 
+sentimiento del mercado y las tendencias 
+demográficas.
+Asimismo, la evaluación se realiza tal y como se 
+describe en el apartado 1.1.3 Gestión de Riesgos, bajo 
+diferentes horizontes temporales, tanto en los ejercicios 
+estratégicos del Grupo como en la gestión con fines de 
+seguimiento (corto, medio y largo plazo, de 2020 a 
+2050).
+En cuanto a las metodologías para la incorporación 
+directa de aspectos sociales en el análisis de escenarios, 
+Grupo Santander sigue de cerca los desarrollos 
+normativos relacionados con estos aspectos.
+• Por último, la interacción de los riesgos sociales con el 
+resto de riesgos se realizan a partir de los mencionados 
+cuestionarios. Estos se realizan durante el proceso de 
+análisis y concesión de financiación, pero también se 
+tienen en cuenta para la gestión de los riesgos de 
+mercado, operativos y de reputación asociados a estos 
+clientes. Si bien, la conexión entre este tipo de factores 
+y los riesgos de mercado y operacional está siendo 
+analizada.
+Informe con Relevancia Prudencial Pilar 3 2024
+22
+8
+ Sectores cubiertos por la política de gestión de riesgos ESCC y sectores tácticos adicionales incluidos en el Procedimiento CIB, así como otros negocios y sectores 
+materiales en función de la geografía y los requisitos legales locales. 1.3 Riesgo de gobierno
+Esta sección cubre el requerimiento de información 
+cualitativa sobre riesgos derivados del gobierno, en 
+concreto, los apartados (a), (b), (c) y (d).
+La gestión de los riesgos derivados del gobierno es un 
+aspecto relevante en dos facetas: por un lado en el 
+gobierno interno del Grupo Santander, y por otro, en la 
+evaluación que hacemos del gobierno de nuestros clientes.
+En relación con el gobierno interno del Grupo Santander, 
+este es un aspecto recogido en el informe anual del Grupo, 
+donde se recogen, entre otros aspectos, los comités 
+responsables de aspectos ESG, la gestión de aspectos 
+éticos, incluyendo la conducta, la gestión de la inclusividad, 
+transparencia, el conflicto de intereses y la comunicación 
+interna de critical concerns.
+Grupo Santander cuenta con unos marcos corporativos en 
+aquellas materias que se han considerado relevantes por su 
+incidencia en el perfil de riesgos del Grupo, como son 
+riesgos, capital, liquidez, cumplimiento, crimen financiero, 
+tecnología, auditoría, contabilidad, finanzas, estrategia, 
+recursos humanos, externalizaciones, ciberseguridad, 
+gestión de situaciones especiales y comunicación y marca, y 
+banca responsable. Estos marcos, de obligado 
+cumplimiento, recogen principios y reglas sobre:
+• El modo de ejercer la supervisión y control del Grupo 
+sobre las filiales.
+• La participación del Grupo en ciertas decisiones 
+relevantes de las filiales, así como la de éstas en el 
+proceso de toma de decisiones en el Grupo.
+Además, la función de cumplimiento está integrada en el 
+proceso de revisión de las transacciones etiquetadas como 
+ESG desde una perspectiva más amplia del riesgo de 
+reputación y conducta, con especial atención a la 
+gobernanza. Se ha desarrollado una metodología para 
+revisar los aspectos relacionados con la gobernanza del 
+cliente respecto a las transacciones clasificadas teniendo en 
+cuenta las salvaguardias sociales mínimas de la Taxonomía 
+de la UE, que se centra en consideraciones de competencia, 
+corrupción/delincuencia financiera y fiscalidad. La 
+metodología interna también tiene en cuenta cuestiones 
+más amplias como las acusaciones de greenwashing, ética e 
+integridad, diversidad, igualdad e Inclusión, composición 
+del consejo y protección del cliente. 
+En relación con el análisis del gobierno de nuestros clientes, 
+éste es un aspecto evaluado en:
+1. La elaboración del rating crediticio de nuestros 
+clientes. En la elaboración del rating crediticio de 
+clientes de CIB se evalúan aspectos del gobierno de 
+nuestros clientes como, entre otros, la aplicación de 
+códigos de buen gobierno sobre nuestros stakeholdqers 
+como Sarbanes-Oxley y su involucración en aspectos de 
+gestión.
+2. En el tiering de los clientes:  realizándolo de forma 
+progresiva de acuerdo con nuestros compromisos de 
+descarbonización, empezando por los de generación de 
+energía  (más detalle en el climate finance report , 
+section 5 'Metrics and targets').
+3. En el proceso de screening y evaluación del riesgo 
+ESCC de actividades de clientes de  Santander Corporate 
+and Investment Banking  (SCIB) de sectores 
+comprometidos (sujetos a la ESCC Policy) como energía, 
+generación de energía eléctrica, soft commodities , 
+minería y metales.
+A lo largo de este proceso, los cuestionarios se 
+actualizan anualmente para evaluar  aspectos sobre el 
+gobierno y gestión de riesgos de nuestros clientes:
+• Las consideraciones éticas y la evaluación de la 
+inclusión incluyen, entre otras cosas, acciones y 
+políticas sobre la no discriminación en el trabajo, 
+condiciones de trabajo, poblaciones que requieran 
+especial atención y derechos humanos. 
+• La evaluación de la estrategia y de la gestión de 
+riesgos incluye el análisis de la calidad y la ambición 
+de los objetivos cuantitativos de emisiones de gases 
+de efecto invernadero (GEI) del cliente y la 
+credibilidad de la estrategia de descarbonización del 
+mismo para alcanzar sus objetivos de reducción de 
+emisiones (por ejemplo, políticas de acción contra el 
+cambio climático; consideración de los riesgos y 
+oportunidades del cambio climático en la estrategia 
+empresarial; y planes de acción para alcanzar sus 
+objetivos de descarbonización).
+• La evaluación de divulgación  se centra en la 
+transparencia de los informes del cliente sobre sus 
+emisiones previas en todos los ámbitos pertinentes, 
+el nivel de garantía, así como el grado de alineación 
+de los informes con el TCFD. En los casos en que sea 
+posible, también se podría incluir una evaluación de 
+si lograron o no los objetivos anteriores de 
+emisiones de GEI.
+• En relación con el conflicto de interés , Santander 
+evalúa si tanto nuestros clientes como los 
+proveedores de los mismos, puedan tener 
+actividades en áreas prohibidas de acuerdo con la 
+normativa del Grupo y si existe algún proceso para 
+la mitigación de ello. 
+Además, se analiza si las políticas del cliente 
+evalúan aspectos sobre la no discriminación en el 
+trabajo, condiciones de trabajo, poblaciones que 
+requieran especial atención y derechos humanos, de 
+sus proveedores.
+• En cuanto a la comunicación interna de los aspectos 
+críticos, se evalúan cómo funciona la comunicación 
+interna de los clientes, por ejemplo, en términos de 
+los mecanismos de reclamación para los 
+trabajadores.
+Adicionalmente, se realiza una evaluación del 
+gobierno sobre el nivel de supervisión y gobernanza 
+de la estrategia de transición del cliente por parte de 
+la dirección. Se evalúa el nivel de antigüedad de los 
+ejecutivos responsables de la estrategia climática, la 
+supervisión de las cuestiones relacionadas con el 
+cambio climático por parte de los comités del 
+consejo de administración y cómo se ajusta la 
+remuneración de los ejecutivos a los resultados en 
+materia de cambio climático. Contar con un directivo 
+responsable de las cuestiones relacionadas con el 
+clima y un miembro responsable del consejo de 
+administración, garantiza la comunicación interna 
+Informe con Relevancia Prudencial Pilar 3 2024
+23
+ de los problemas climáticos críticos en toda la 
+organización. 
+Los clientes de los sectores aplicables son 
+analizados a través de un cuestionario que es 
+cumplimentado por el gestor financiero y que, 
+posteriormente, un equipo de analistas revisa para 
+realizar la evaluación global de los riesgos ESCC.
+El departamento de riesgos ESCC y el departamento 
+de cumplimiento realizan una diligencia más 
+exhaustiva de aquellos casos en los que se hayan 
+detectado alertas. Como resultado de la evaluación 
+de los cuestionarios, como medida preventiva, las 
+decisiones clave pueden elevarse al foro de riesgo 
+reputacional e, incluso al consejo de administración.
+4. Dentro del proceso de diligencia debida con respecto a 
+clientes, el Grupo analiza la información públicamente 
+disponible para evaluar el riesgo de delitos financieros 
+de nuestros clientes potenciales o existentes ( screening 
+de medios adversos). Si durante el mencionado proceso 
+se identifica un riesgo relevante, se escalará a la función 
+de Prevención de Delitos Financieros para la revisión y 
+determinación de las acciones mitigadoras.
+5. De acuerdo con la política de sector de defensa , Grupo 
+Santander no se involucrará en la financiación ni 
+apoyará la fabricación, comercialización, distribución ni 
+los servicios de mantenimiento de los materiales 
+definidos como prohibidos en la política.
+Con la entrada en vigor de la Corporate Sustainability 
+Reporting Directive  (CSRD), se incorporarán aspectos 
+adicionales sobre la evaluación del riesgo de gobierno en 
+nuestros clientes.
+Adicionalmente, el área de Cumplimiento va a seguir 
+profundizando en el análisis del gobierno de nuestros 
+clientes, particularmente en el contexto del análisis de due 
+diligence de nuestros clientes de acuerdo con nuestras 
+políticas y procedimientos de marcaje ESG, con el fin de 
+ampliar el foco en aspectos como ética e integridad, 
+diversidad e igualdad en el consejo y protección de los 
+clientes.
+Informe con Relevancia Prudencial Pilar 3 2024
+24 Glosario
+Acuerdo de París: tratado internacional sobre el cambio 
+climático que implica tomar las medidas necesarias para 
+limitar el aumento de temperatura media mundial muy por 
+debajo de 2 °C e, idealmente, por debajo de 1,5 °C.
+Apetito de riesgo: el apetito de riesgo se define como la 
+cuantía y tipología de los riesgos que se considera 
+razonable asumir en la ejecución de su estrategia de 
+negocio, de modo que el Grupo pueda mantener su 
+actividad ordinaria frente a la ocurrencia de eventos 
+inesperados. Para ello se consideran escenarios severos, 
+que pudiesen tener un impacto negativo en sus niveles de 
+capital, liquidez, rentabilidad y/o en el precio de su acción.
+COP 21: Conferencia de las Naciones Unidas sobre Cambio 
+Climático celebrada en 2015.
+CSRD (Directiva de Informes de Sostenibilidad 
+Corporativa): directiva de la UE que obliga a las grandes 
+empresas y a las que cotizan en bolsa a publicar informes 
+sobre los riesgos sociales y ambientales enfrentados y 
+sobre el impacto de sus actividades
+DNSH (no perjudica significativamente ninguno de los 
+objetivos medioambientales): principio que obliga a 
+realizar una evaluación que asegure que la inversión no 
+afecta negativamente a uno, o varios, de los 6 objetivos 
+medioambientales definidos en la Taxonomía de la UE.
+EDTF (Enhanced Disclosure Task Force): Grupo de trabajo 
+que emite recomendaciones con el objetivo de mejorar la 
+transparencia de las entidades al mercado.
+Eficiencia energética (EP scores): consumo de energía de 
+un colateral en kWh/m².
+Emisiones financiadas: emisiones de gas de efecto 
+invernadero (GEI) asociadas con un préstamo concedido o 
+una provisión de servicios financieros a una contraparte. Se 
+desglosan en tres tipos de scopes:
+• Scope 1: emisiones directas de GEI procedentes de 
+fuentes que son propiedad de la empresa o están bajo 
+su control, como las emisiones procedentes de la 
+combustión en calderas, hornos, vehículos, etc.
+• Scope 2: emisiones indirectas de GEI procedentes de la 
+generación o compra de electricidad, vapor, calefacción 
+o refrigeración consumidos por la empresa.
+• Scope 3: resto de emisiones indirectas de GEI (no 
+incluidas en el alcance 2) que se producen en la cadena 
+de valor de la empresa. 
+Empresas excluidas de los índices de referencia de la EU 
+alineados con el Acuerdo de París: aquellas empresas que 
+por tener un cierto porcentaje de sus ingresos derivados de 
+actividades consideradas contaminantes no se incluyen en 
+los benchmarks alineados con los acuerdos de París.
+ESCC policy: environmental, social and climate change 
+policy del Grupo Santander.
+ESG: Riesgo ESG se plantea el objetivo de calcular el riesgo 
+que deriva de los factores relacionados con las 
+problemáticas medioambientales, sociales y de buen 
+gobierno (en inglés Environmental, Social, Governance y, de 
+ahí, el acrónimo ESG), que impacten en el rendimiento de 
+los valores de un fondo común de inversión.
+Etiqueta de eficiencia energética (EPC): código de letras 
+que representa la eficiencia energética del colateral.
+GEI: gas de efecto invernadero.
+Greenwashing: la práctica de obtener una ventaja 
+competitiva desleal comercializando un producto financiero 
+como respetuoso con el medio ambiente cuando, en 
+realidad, no cumple los requisitos medioambientales 
+básicos.
+ICAAP (Internal Capital Adecuacy Assessment Process): 
+IAC es su acrónimo en español.
+IRP: Informe con Relevancia Prudencial.
+ITS (Implementing Technical Standards): normas técnicas 
+de implementación.
+Métricas de alineamiento: objetivos de descarbonización 
+para alinear las emisiones de una cartera con los objetivos 
+del Acuerdo de París.
+MSS (salvaguardias sociales mínimas): principio que 
+obliga a realizar una evaluación que evite cualquier impacto 
+negativo de los derechos humanos y laborales.
+NZAMi (Net Zero Asset Management initiative): grupo 
+internacional de gestores de activos comprometidos a 
+apoyar el objetivo de cero emisiones netas de gases de 
+efecto invernadero para 2050.
+NZBA (Net-Zero Banking Alliance): alianza de los 43 
+principales bancos del mundo que tiene el objetivo de 
+cumplir la ambición del sector bancario de alinear sus 
+compromisos climáticos con los objetivos del Acuerdo de 
+París.
+ODS (Objetivos de Desarrollo Sostenible): conjunto 
+universal de objetivos, metas e indicadores que los Estados 
+miembros de la ONU deberán utilizar para enmarcar sus 
+agendas y políticas durante los próximos años.
+PCAF (Partnership for Carbon Accounting Financials): 
+iniciativa creada en 2019 que tiene como objetivo 
+establecer una metodología internacional para medir y 
+reportar las emisiones financiadas de gases de efecto 
+invernadero de las entidades financieras.
+Pilar 3: disciplina de mercado. Pilar diseñado para 
+completar los requerimientos mínimos de capital y el 
+proceso de examen supervisor, y, de esta forma, impulsar la 
+disciplina de mercado a través de la regulación de la 
+divulgación pública por parte de las mismas.
+Principios de Ecuador: marco común de referencia y 
+gestión de riesgos para que las instituciones financieras 
+identifiquen, evalúen y gestionen los riesgos 
+medioambientales y sociales a la hora de financiar 
+proyectos.
+Riesgo de transición: riesgo derivado de cambios políticos, 
+jurídicos, tecnológicos y de mercado generados por la 
+transición a una economía con menos emisiones de 
+carbono. 
+Riesgo físico: riesgo de pérdidas procedente de cualquier 
+impacto financiero negativo para la entidad por las 
+repercusiones actuales o futuras de los efectos físicos de 
+Informe con Relevancia Prudencial Pilar 3 2024
+25
+ los factores medioambientales sobre las contrapartes o los 
+activos invertidos de la entidad.
+• Agudo: riesgos físicos que incluyen fenómenos 
+meteorológicos adversos como ciclones, huracanes o 
+inundaciones, así como la mayor gravedad de los 
+mismos.
+• Crónico: riesgos físicos que incluyen cambios a largo 
+plazo en los patrones climáticos (por ejemplo, 
+temperaturas más altas de forma sostenida) que 
+pueden causar la subida del nivel del mar u olas de 
+calor crónicas.
+RSPO (mesa redonda sobre aceite de palma sostenible): 
+establecida en 2004 con el objetivo de promover el 
+crecimiento y el uso de productos de aceite de palma 
+sostenible a través de estándares globales y una 
+gobernanza de múltiples partes interesadas
+RPK: ingresos por pasajero-kilómetro.
+SFICS (sistema de clasificación de finanzas e inversiones 
+sostenibles): guía interna del Grupo Santander con criterios 
+unificados para clasificar los activos verdes, sociales y 
+sostenibles en todas las unidades y áreas de negocio. 
+Stress testing: término que describe diferentes técnicas 
+utilizadas para medir la potencial vulnerabilidad a los 
+acontecimientos excepcionales, pero plausibles.
+Taxonomía de la UE: sistema de clasificación desarrollado 
+por la Comisión Europea que establece una lista de 
+actividades económicas sostenibles desde un punto de vista 
+medioambiental a disposición de empresas e inversores.  
+TCFD (task force on climate-related financial disclosures): 
+grupo de trabajo creado por el Consejo de Estabilidad 
+Financiera para mejorar y aumentar el reporte de 
+información financiera relacionada con el clima.
+tCS: toneladas de acero bruto.
+TPI (transition pathway initiative): iniciativa mundial 
+liderada por propietarios de activos y respaldada por 
+gestores de activos que evalúa el progreso que las 
+empresas están haciendo en la transición hacia una 
+economía baja en carbono.
+TSC (criterios técnicos de selección): requisitos y umbrales 
+específicos que deberá cumplir cada actividad incluida en la 
+Taxonomía de la UE para que se considere que contribuye 
+de forma significativa a un objetivo sostenible.
+UNEP FI: Iniciativa Financiera del Programa de las Naciones 
+Unidas para el Medio Ambiente.
+Informe con Relevancia Prudencial Pilar 3 2024
+26 
