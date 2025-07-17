@@ -1,0 +1,45 @@
+Document-Level Translation Evaluation Summary
+============================================================
+All translations are Spanish to English
+============================================================
+
+
+8_PAGES
+----------------------------------------
+
+Translated file: Santander Treasury Stock Policy ESP_translated.txt
+Source document: Santander Treasury Stock Policy ESP
+Reference (English PDF): Santander Treasury Stock Policy ENG.pdf
+BLEU Score: 56.93
+BERT Similarity: 0.9697
+COMET Score: 0.8848
+
+10_PAGES
+----------------------------------------
+
+Translated file: Santander Invite to Purchase Instruments ESP_translated.txt
+Source document: Santander Invite to Purchase Instruments ESP
+Reference (English PDF): Santander Invite to Purchase Instruments ENG.pdf
+BLEU Score: 65.68
+BERT Similarity: 0.9026
+COMET Score: 0.8046
+
+16_PAGES
+----------------------------------------
+
+Translated file: Sept 2020 Executive Summary UN Economist Network Spanish_translated.txt
+Source document: Sept 2020 Executive Summary UN Economist Network Spanish
+Reference (English PDF): Sept 2020 Executive Summary UN Economist Network.pdf
+BLEU Score: 49.19
+BERT Similarity: 0.9473
+COMET Score: 0.8863
+
+26_PAGES
+----------------------------------------
+
+Translated file: Santander Pillar 3 Report June 2024 ESP_translated.txt
+Source document: Santander Pillar 3 Report June 2024 ESP
+Reference (English PDF): Santander Pillar 3 Report June 2024 ENG.pdf
+BLEU Score: 18.63
+BERT Similarity: 0.9696
+COMET Score: 0.8942

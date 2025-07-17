@@ -1,0 +1,46 @@
+{
+  "8_pages": {
+    "Santander Treasury Stock Policy ESP_translated.txt": {
+      "source_file": "Santander Treasury Stock Policy ESP",
+      "reference_file": "Santander Treasury Stock Policy ENG.pdf",
+      "scores": {
+        "bleu_score": 56.931496007617135,
+        "bert_similarity": 0.9696650505065918,
+        "comet_score": 0.8848318457603455
+      }
+    }
+  },
+  "10_pages": {
+    "Santander Invite to Purchase Instruments ESP_translated.txt": {
+      "source_file": "Santander Invite to Purchase Instruments ESP",
+      "reference_file": "Santander Invite to Purchase Instruments ENG.pdf",
+      "scores": {
+        "bleu_score": 65.68425823449519,
+        "bert_similarity": 0.902593195438385,
+        "comet_score": 0.8046088814735413
+      }
+    }
+  },
+  "16_pages": {
+    "Sept 2020 Executive Summary UN Economist Network Spanish_translated.txt": {
+      "source_file": "Sept 2020 Executive Summary UN Economist Network Spanish",
+      "reference_file": "Sept 2020 Executive Summary UN Economist Network.pdf",
+      "scores": {
+        "bleu_score": 49.18876859847867,
+        "bert_similarity": 0.9473073482513428,
+        "comet_score": 0.8863407969474792
+      }
+    }
+  },
+  "26_pages": {
+    "Santander Pillar 3 Report June 2024 ESP_translated.txt": {
+      "source_file": "Santander Pillar 3 Report June 2024 ESP",
+      "reference_file": "Santander Pillar 3 Report June 2024 ENG.pdf",
+      "scores": {
+        "bleu_score": 18.62907285926859,
+        "bert_similarity": 0.9696213603019714,
+        "comet_score": 0.8941992521286011
+      }
+    }
+  }
+}
