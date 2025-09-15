@@ -1,0 +1,69 @@
+Prueba Powerpoint
+
+####################
+
+Esta es una prueba para leer con python
+
+####################
+
+Título para diapositiva con contenido básico
+
+####################
+
+Este es un punto en el cuadro de texto predeterminado
+
+####################
+
+Un sub-punto
+
+####################
+
+Título para diapositiva con cuadros de texto y formas
+
+####################
+
+Este es un cuadro de texto
+
+####################
+
+Esta es una forma con texto
+
+####################
+
+Título para diapositiva con una tabla
+
+####################
+
+Título para diapositiva con notas
+
+####################
+
+
+
+####################
+
+Fruta
+
+####################
+
+Número
+
+####################
+
+Manzana
+
+####################
+
+5
+
+####################
+
+Naranja
+
+####################
+
+20
+
+####################
+
+Notas que contienen algunos puntos de discusión

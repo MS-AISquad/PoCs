@@ -25,6 +25,31 @@ def read_file(file_path: str) -> str:
         sys.exit(1)
 
 
+def save_file(file_obj: Reader, time: str, src_txt: str, translated_txt: str) -> str:
+    output_filename = file_obj.output_name
+    original_file = f"{output_filename}_original.txt"
+    with open(original_file, 'w', encoding='utf-8') as f:
+        f.write(src_txt)
+    print(f"\nOriginal text saved to: {original_file}")
+    
+    translated_file = f"{output_filename}_translated.txt"
+    with open(translated_file, 'w', encoding='utf-8') as f:
+        f.write(translated_txt)
+    print(f"Translated text saved to: {translated_file}")
+
+    time_file = f"{output_filename}_time.txt"
+    with open(time_file, 'w', encoding='utf-8') as f:
+        f.write('Total translation time: ' + str(time))
+    print(f"Time text saved to: {time_file}")
+
+    if file_obj.doc is not None and file_obj.paragraphs is not None:
+        texts = translated_txt.split(file_obj.join_char)
+        for p, txt in zip(file_obj.paragraphs, texts):
+            p.text = txt
+    
+        file_obj.doc.save(translated_file.replace('.txt', f'.{file_obj.extension}'))
+
+
 def get_file_path(prompt: str, must_exist: bool = True) -> Optional[str]:
     while True:
         path = input(prompt).strip()
@@ -80,6 +105,8 @@ def main():
     source_text = source_file_obj.text
     source_sentences = split_sentences('\n\n'.join(source_text))
     print(f"Found {len(source_sentences)} sentences to translate")
+
+    source_file_obj.output_name = output_name
     
     reference_sentences = None
     if reference_file:
@@ -96,8 +123,9 @@ def main():
         if translate_by_sentence:
             translations = translator.translate_batch(source_sentences, source_lang_full, target_lang_full)
         else:
-            translations = translator.translate_text(' '.join(source_text), source_lang_full, target_lang_full)
-            translations = split_sentences(translations)
+            source_text = source_file_obj.join_char.join(source_text)
+            translations = translator.translate_text(source_text, source_lang_full, target_lang_full)
+            # translations = split_sentences(translations)
         print(f"Translation complete!")
         total_time = dt.now() - start
         results = {
@@ -106,21 +134,8 @@ def main():
             "source_sentences": source_sentences,
             "translations": translations
         }
-        
-        original_file = f"{output_name}_original.txt"
-        with open(original_file, 'w', encoding='utf-8') as f:
-            f.write(' '.join(source_text))
-        print(f"\nOriginal text saved to: {original_file}")
-        
-        translated_file = f"{output_name}_translated.txt"
-        with open(translated_file, 'w', encoding='utf-8') as f:
-            f.write(' '.join(translations))
-        print(f"Translated text saved to: {translated_file}")
 
-        time_file = f"{output_name}_time.txt"
-        with open(time_file, 'w', encoding='utf-8') as f:
-            f.write('Total translation time: ' + str(total_time))
-        print(f"Time text saved to: {time_file}")
+        save_file(source_file_obj, str(total_time), source_text, translations)
         
         if reference_sentences:
             print("\nEvaluating translations...")

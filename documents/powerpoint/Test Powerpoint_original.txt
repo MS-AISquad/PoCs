@@ -1,0 +1,69 @@
+Test Powerpoint
+
+####################
+
+This is a test to read with python
+
+####################
+
+Title for slide with basic content
+
+####################
+
+This is a bullet point in the default text box
+
+####################
+
+A sub-bullet point
+
+####################
+
+Title for slide with text boxes and shapes
+
+####################
+
+This is a text box
+
+####################
+
+This is a shape with text
+
+####################
+
+Title for slide with a table
+
+####################
+
+Title for slide with notes
+
+####################
+
+
+
+####################
+
+Fruit
+
+####################
+
+Number
+
+####################
+
+Apple
+
+####################
+
+5
+
+####################
+
+Orange
+
+####################
+
+20
+
+####################
+
+Notes containing some talking points

@@ -1,0 +1,8 @@
+{
+  "translation_direction": "en-es",
+  "model": "gemini-2.5-flash",
+  "source_sentences": [
+    "Test Powerpoint\n\nThis is a test to read with python\n\nTitle for slide with basic content\n\nThis is a bullet point in the default text box\n\nA sub-bullet point\n\nTitle for slide with text boxes and shapes\n\nThis is a text box\n\nThis is a shape with text\n\nTitle for slide with a table\n\nTitle for slide with notes\n\n\n\nFruit\n\nNumber\n\nApple\n\n5\n\nOrange\n\n20\n\nNotes containing some talking points"
+  ],
+  "translations": "Prueba Powerpoint\n\n####################\n\nEsta es una prueba para leer con python\n\n####################\n\nTítulo para diapositiva con contenido básico\n\n####################\n\nEste es un punto en el cuadro de texto predeterminado\n\n####################\n\nUn sub-punto\n\n####################\n\nTítulo para diapositiva con cuadros de texto y formas\n\n####################\n\nEste es un cuadro de texto\n\n####################\n\nEsta es una forma con texto\n\n####################\n\nTítulo para diapositiva con una tabla\n\n####################\n\nTítulo para diapositiva con notas\n\n####################\n\n\n\n####################\n\nFruta\n\n####################\n\nNúmero\n\n####################\n\nManzana\n\n####################\n\n5\n\n####################\n\nNaranja\n\n####################\n\n20\n\n####################\n\nNotas que contienen algunos puntos de discusión"
+}
